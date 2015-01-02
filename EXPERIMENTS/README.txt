@@ -61,3 +61,15 @@ Procedure: I started with an image of 64 pixels squared. I generated white Gauss
 Notes: I got some pretty amazing results. I ended up with noisy images at the 512 pixels squared scale that were really, really rich in color and texture. The goal here is always to create visually interesting stuff. It doesn't really matter how I get to the ends, by which means. The important thing is that I get the effect I want. After that, THEN I can start to see how I can simplify the steps, the number of steps also, to try to get something genuinely "programmatic" or "algorithmic". So far I am getting really good results, though, so I need to continue in this direction, definitely.
 
 - - - - -
+
+Time: Fri Jan 02 17:38:03 2015
+
+Experiment: Textures Experiment #006
+
+Statement of Purpose: The purpose of this experiment was to play with painterly textures in acrylic paint.
+
+Procedure: I painted on canvas in acrylic paint, on roughly an 8 inch by 10 inch. I dripped liquidy paint on the canvas which was sitting flat on my banquet table. I let it partially dry, then removed most of the liquidy paint by doing compresses with paper towel (paper towel with a distinct pattern woven into it).
+
+Notes: The result was pretty nice. You get LOTS of color, but totally SUBDUED, the way I often like it. It would be perfect for doing a portrait on top of it in pencil or ink/pen. Right now I scanned it and am looking at the image on the computer. I have other texture pieces I will be doing in this series. This is just the beginning.
+
+- - - - -
