@@ -49,3 +49,15 @@ Procedure: What I did is that I tried to ONLY USE THE PIXELATE OPERATION. I made
 Notes: It's hard to make computers create art! But it's possible, and it's not only possible, it's worth every second of it. I create layers and then use difference functions on the layers. It's the quickest, simplest way I have found thus far for creating visual "interestingness". I need my images to be "arresting". I want people to take a second look. It's easy to create image, but hard to create GOOD IMAGES, even harder when you are trying to do it PROCEDURALLY. The idea is that I keep starting with pure Gaussian noise. I want a maximum of RANDOMNESS in the opening "seed" image/signal. After that, I try to use only the most PRIMITIVE FUNCTIONS/OPERATIONS. It's difficult because I'm struggling to find the proper mathematical formulae for doing this stuff. It would be easier if I already had all the math lined up, but I don't, so it's a bit hard. Ideally I need the algorithm to calculate things, compute things "numerically". That means that I can create "random matrices" at the outset and then "modulate" then algorithmically, programmatically. I'm making progress but it remains a HARD PROBLEM.
 
 - - - - -
+
+Time: Fri Jan 02 10:18:17 2015
+
+Experiment: Scaling Pixel Tricks #005
+
+Statement of Purpose: I wanted to see if I could use noisy signals in 64 pixel by 64 pixel format, then resize the image to 128 pixels squared, while doing modifications, etc. The point being, using scaling as a tool to make noise make visually interesting effects.
+
+Procedure: I started with an image of 64 pixels squared. I generated white Gaussian noise. I then resized the image to 128 pixels square, and added a layer of Gaussian noise, which I XORed, using the "DIFFERENCE" operation for layers. I then did the same thing for 256 pixels squared, then 512 pixels squared.
+
+Notes: I got some pretty amazing results. I ended up with noisy images at the 512 pixels squared scale that were really, really rich in color and texture. The goal here is always to create visually interesting stuff. It doesn't really matter how I get to the ends, by which means. The important thing is that I get the effect I want. After that, THEN I can start to see how I can simplify the steps, the number of steps also, to try to get something genuinely "programmatic" or "algorithmic". So far I am getting really good results, though, so I need to continue in this direction, definitely.
+
+- - - - -
