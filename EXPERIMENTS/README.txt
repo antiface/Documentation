@@ -73,3 +73,15 @@ Procedure: I painted on canvas in acrylic paint, on roughly an 8 inch by 10 inch
 Notes: The result was pretty nice. You get LOTS of color, but totally SUBDUED, the way I often like it. It would be perfect for doing a portrait on top of it in pencil or ink/pen. Right now I scanned it and am looking at the image on the computer. I have other texture pieces I will be doing in this series. This is just the beginning.
 
 - - - - -
+
+Time: Fri Jan 02 17:45:32 2015
+
+Experiment: Writing-Without-Writing #007
+
+Statement of Purpose: I was trying out some "ARABESQUES", a type of "Asemic Writing" that I call "Writing-Without-Writing". 10 inch x 20 inch, acrylic and oil pastel.
+
+Procedure: I began by priming a canvas in a light yellow. Then I added scribbling onto the surface with a yellowish-orange marker. I then painted following the marker marks with a paintbrush with a kind of ochre orange, darkish. I then added markings in oil pastel, in a light sierra brown. I then covered the surface with oil pastel, light pink and light yellow, more like banana yellow, or daffodil yellow to be precise. Then I covered the whole thing with a white wash, with watered down gesso.
+
+Notes: The painting is still drying so I don't know for sure yet what the results will be. So far though it looks pretty good. It is a classic "Writing-Without-Writing" painting, of Asemic Writing. I don't know what else to say.
+
+- - - - -
