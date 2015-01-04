@@ -85,3 +85,15 @@ Procedure: I began by priming a canvas in a light yellow. Then I added scribblin
 Notes: The painting is still drying so I don't know for sure yet what the results will be. So far though it looks pretty good. It is a classic "Writing-Without-Writing" painting, of Asemic Writing. I don't know what else to say.
 
 - - - - -
+
+Time: Sun Jan 04 11:15:39 2015
+
+Experiment: Difference Blend Mode #008
+
+Statement of Purpose: I continued with my evolutionary art / evolutionary designs. I discovered the simple mathematical formula for the Difference function (type: inversion blend mode).
+
+Procedure: I have made several hundred new little designs over the course of the last few days. The basic procedure is still to utilize the LEAST number of STEPS in the evolutionary design process and also to ONLY USE PRIMITIVE FUNCTIONS. Before now, though, I didn't have all the requisite MATH. Now I have it. The simple blend mode I am using, the "DIFFERENCE" blend mode / mixing mode, is simple: It takes two images and returns the absolute value of the difference between the two images. Another way to put it, by its formula is:   abs(Src - Dest). Yet another way to put it is: difference <image:pic1> <image:pic2> (Pop the two top images, push the difference image). Notes ensue.
+
+Notes: So now I have the basic formular for the difference blend mode, which is an "Inversion" type blend mode / mixing bode. Difference reacts to the differences between the upper and lower layer pixels. Large differences lighten the color, and small differences darken the color. I have been experimenting with trying to JUST use difference, but it's difficult. I find myself still needing to use PIXELATE as well as POINTILLIZE. But I'm getting closer to the goal of having it done entirely "algorithmically", especially now that I have the basic mathematical formula, i.e. a basic blend mode is a function BM(L1, L2) = L3 that defines a pixel by pixel map of two image layers L1 and L2 to create a third image layer L3. In regular terms you might explain it like this: “In either layer, black has no effect and white inverts the other layer’s color.” Or else, it mixes with absolute value of the difference between base and blend layers. More experimentation needed. Trying to use the least number of primitive functions, trying to make it all done through numerical computation alone. I will be using Python's Imaging Library.
+
+- - - - -
