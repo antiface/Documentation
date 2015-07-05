@@ -145,3 +145,27 @@ Procedure: What I did was "pat" the surface a little after it had been drying fo
 Notes: The First Phase basically, of the first official WHITE POINT PAINTING, is virtually over. I will be adding a transparent medium to the surface, what you might call an acrylic "varnish", which will be matte. I may then add some "granular" textures, using a product called a "No-Slip Compound". It's a product you add to a freshly painted surface to make it less SLIPPERY. It is a great compound for adding a little texture to a canvas, which is my goal here. The transparent medium/matte acrylic varnish, will not affect the COLOR of the painting in its current state. I must just remember not to use too much of the No-Slip Compound, or else I risk "UNDOING" some of my hard work so far on this painting. You just go slow and add it in layers.. it is like a powder of sorts, with a "SANDY TEXTURE".
 
 - - - - -
+
+Time: Sun Jul 05 17:57:31 2015
+
+Experiment: WHITE POINT - BEGINNING OF PHASE TWO: PREPARATIONS & INVOCATIONS, FIRST TREATMENTS
+
+Statement of Purpose: I finished up Phase One of the first official WHITE POINT PAINTING. I am starting Phase Two. All I did was some extra DISTRESSING. All part and parcel of the iterative process. The purpose of this step is to give the surface YET MORE CHARACTER.
+
+Procedure: I began using a "sandblock", a sand paper in the form of a small block. I used that some, to "age" the surface a little more, and then I added color and texture, all the while ensuring that I give it a good "wear & tear" and "patina" look and feel. This was the first "official" PATINA LAYER / TREATMENT. I began using contrasting colors.
+
+Notes: This "preparation" step is going to be in two parts. I did some more stuff to the surface which I will describe in the next "REPORT".
+
+- - - - -
+
+Time: Sun Jul 05 18:02:31 2015
+
+Experiment: WHITE POINT - BEGINNING OF PHASE TWO: PREPARATIONS PART II, FIRST TREATMENTS #002
+
+Statement of Purpose: At this point, I begin adding substantial amounts of color. I will often be "going over" my own work. That is, I will do something, apply a wash or some paint and the result will be that it will effectively "ERASE" something that I did earlier. That's okay because I can still make the older layers show through. All I have to do is "SCRATCH" the surface, or use SAND PAPER; there are many ways to make the older, bottommost layers shine through. That's one of the reasons I like to work with watered-down paint, so that it has some level of transparency. Plus I don't have to paint "ALL-OVER" the entire surface of the canvas, which automatically means the earlier layers will show through.
+
+Procedure: Basically, I did a treatment comprising of the application of "YELLOWED" and slightly WHITENED "PUMPKIN ORANGE. I applied the orange with a palette knife to a good portion of the surface, say maybe 70-80% of the surface of the canvas. Then I scratched it with the palette knife as well as distressed it with an EXACTO KNIFE. I waited for it to dry and then later I used the SAND PAPER on the surface.
+
+Notes: The idea was to add a little color, or CONTRAST. I effectively chose a tone of pale yellowed-orange.. The mixture, say, was 60-70% "pumpkin orange", the rest being white and yellow (a variant of "Cadmium Yellow" that's apparently called "bright yellow" or "canary yellow"). The color basically looks like the inside of a raw sweet potato. The darker HUE helps give the canvas character. Now there is beginning to be some CONTRAST. The only thing is, I ended up "UNDOING" a lot of the work and treatments I did before, by essentially "painting over them". That's okay. For the next treatment, I will be adding back some of the same light colors that I applied in the beginning. Then I will also be scratching and "distressing" the surface some more, hopefully revealing some of the underpainting.
+
+- - - - -
