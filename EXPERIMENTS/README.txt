@@ -97,3 +97,15 @@ Procedure: I have made several hundred new little designs over the course of the
 Notes: So now I have the basic formular for the difference blend mode, which is an "Inversion" type blend mode / mixing bode. Difference reacts to the differences between the upper and lower layer pixels. Large differences lighten the color, and small differences darken the color. I have been experimenting with trying to JUST use difference, but it's difficult. I find myself still needing to use PIXELATE as well as POINTILLIZE. But I'm getting closer to the goal of having it done entirely "algorithmically", especially now that I have the basic mathematical formula, i.e. a basic blend mode is a function BM(L1, L2) = L3 that defines a pixel by pixel map of two image layers L1 and L2 to create a third image layer L3. In regular terms you might explain it like this: “In either layer, black has no effect and white inverts the other layer’s color.” Or else, it mixes with absolute value of the difference between base and blend layers. More experimentation needed. Trying to use the least number of primitive functions, trying to make it all done through numerical computation alone. I will be using Python's Imaging Library.
 
 - - - - -
+
+Time: Sat Jul 04 19:40:14 2015
+
+Experiment: WHITE POINT PROJECT TRUE FIRST PHASE 001
+
+Statement of Purpose: This experiment is an experiment in the human sensory perception of the dynamic subtleties of all manners of off-white paint colors. Essentially, the idea is to trick the human eye. We do this by using colors that are infinitesimally "off-white", i.e. infinitesimally "close" to pure titanium white. It is part of a project called WHITE POINT which was inspired by a close friend and retired printer M.J. from Brooklyn, when he began teaching me the intricacies of modern color theory. He is also one of the founders and chief researchers for the Nemetics project.
+
+Procedure: The procedure so far is very simple: I merely "primed" my canvas with a color that was a mixture of roughly 95% titanium white and 5% what might be called "canary yellow". (In this case it was cheap acrylic paint without standard pigment metadata, it was called just "bright yellow". The canvas had already been primed with three coats of Gesso (white). I added the first coat of infinitesimally off-white banana yellow, mostly white, with only a pinch of yellow. Now it is drying. I am waiting to see what comes next. The way I work is I go by "treatments" and this coat of paint is the first official "treatment" (in what I call process-painting or procedural painting.)
+
+Notes: Like all of my other Projects, the White Point Project is an open-ended series, what I call an "ongoing series". It will contain a collection of paintings that will go on over the course of a few years. The collections of images will also have digital counterparts, digital images and ambient experimental sound designs. I will also be writing a great deal of stuff, from poetry to novelistic writings, liner notes, further documentation and so forth. This is the first official SERIOUS work in the White Point Project. Now I wait for the paint to dry.
+
+- - - - -
