@@ -133,3 +133,15 @@ Procedure: Simply put, what I did was mix some white acrylic, only a few drops, 
 Notes: It turns out that I had too much water in my mixture. The watered-down white paint, given that the acrylic itself is cheap and has less actual pigment than usual, what happened is that the whitewash treatment I just did is basically disappearing as it dries. But that's okay. It is still giving a DESIRABLE EFFECT, it's just VERY, VERY MINIMALISTIC. It is extremely subtle, which is fine, I will just correct that in Treatment Number Four.
 
 - - - - -
+
+Time: Sun Jul 05 13:21:58 2015
+
+Experiment: WHITE POINT PHASE ONE FOURTH TREATMENT - THE END OF PHASE ONE #004
+
+Statement of Purpose: The purpose of Phase One was simply to "weather" the surface of the canvas some. I wanted to give it a textured veneer, all in infinitesimally off-white treatments/coats of paint, what can be called adding "PATINA" or a process of "patination". The Fourth Treatment of Phase One prepares us for Phase Two.
+
+Procedure: What I did was "pat" the surface a little after it had been drying for several minutes, say 10-15-20 minutes. I patted it with a highly textured "texture sponge" as well as with some Paper Towel (the kind with a textured "pattern" on it). Then I added a little more of the whitened/yellowed paint and "texturized" that as well. In the last phase of this treatment, I ended up adding some more paint, this time a mixture I had made for a quick paint test on another surface (a small canvas, perfect for doing paint tests). I am letting it dry now and observing it closely, with an eye meticulously scanning and monitoring for details.
+
+Notes: The First Phase basically, of the first official WHITE POINT PAINTING, is virtually over. I will be adding a transparent medium to the surface, what you might call an acrylic "varnish", which will be matte. I may then add some "granular" textures, using a product called a "No-Slip Compound". It's a product you add to a freshly painted surface to make it less SLIPPERY. It is a great compound for adding a little texture to a canvas, which is my goal here. The transparent medium/matte acrylic varnish, will not affect the COLOR of the painting in its current state. I must just remember not to use too much of the No-Slip Compound, or else I risk "UNDOING" some of my hard work so far on this painting. You just go slow and add it in layers.. it is like a powder of sorts, with a "SANDY TEXTURE".
+
+- - - - -
