@@ -169,3 +169,15 @@ Procedure: Basically, I did a treatment comprising of the application of "YELLOW
 Notes: The idea was to add a little color, or CONTRAST. I effectively chose a tone of pale yellowed-orange.. The mixture, say, was 60-70% "pumpkin orange", the rest being white and yellow (a variant of "Cadmium Yellow" that's apparently called "bright yellow" or "canary yellow"). The color basically looks like the inside of a raw sweet potato. The darker HUE helps give the canvas character. Now there is beginning to be some CONTRAST. The only thing is, I ended up "UNDOING" a lot of the work and treatments I did before, by essentially "painting over them". That's okay. For the next treatment, I will be adding back some of the same light colors that I applied in the beginning. Then I will also be scratching and "distressing" the surface some more, hopefully revealing some of the underpainting.
 
 - - - - -
+
+Time: Mon Jul 13 13:49:24 2015
+
+Experiment: WHITE POINT BEGINNING PHASE TWO - #002
+
+Statement of Purpose: I am once again slowly putting down layer upon layer of thinned out acrylic paint, always infinitesimally OFF-WHITE, also "DISTRESSING" the surface as I go along to hopefully in the end have a canvas that looks REALLY OLD.
+
+Procedure: What I just did was add a layer of watered-down, off-white acrylic paint, titanium white with a little bright yellow (variant of Cadmium yellow, cheap paint with little actual pigment). Now I am letting it dry, observing it with meticulous care as it dries to ensure it "BEHAVES" the way I want it to, i.e. the way I "DESIGNED" it to, the "EXPERIMENT" that is.
+
+Notes: The paint is drying as it should. Everything is under control. Situation normal. I ended up basically applying a "WASH" to the surface. I am watching it dry. I will intervene again either once it dries completely, or near the end of the drying process, where I may "DISTRESS" the surface some more, likely with the palette knife.
+
+- - - - -
