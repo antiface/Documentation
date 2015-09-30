@@ -53,3 +53,5 @@ Best Practices for Increasing the Agility of Documentation
 18. Get someone with writing experience
 
 [Agile/Lean Documentation: Strategies for Agile Software Development] (http://www.agilemodeling.com/essays/agileDocumentation.htm)
+
+## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
