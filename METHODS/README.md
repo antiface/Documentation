@@ -1,2 +1,2 @@
-METHODS
-=======
+#METHODS
+##Abridged Basic Daily Workflow
