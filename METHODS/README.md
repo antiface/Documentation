@@ -6,7 +6,7 @@
     * a) The former contains a running record of all of the concepts and themes that I am currently working on/with in both my artistic practice AND my accompanying interdisciplinary research;
     * b) The latter contains a running record of #PROBLEMS that I encounter in my everyday life and work and their #SOLUTIONS;
 4. I then can usually start working, going through my #DAYPATH file, item by item;
-5. I also begin taking notes in various notebooks, I also do experiments in painting or sound design or whatnot and write "LabNotes" for those (which I post in a repository on Github as well as on a blog called "AntiLog";
+5. I also begin taking notes in various notebooks, I also do experiments in painting or sound design or whatnot and write "LabNotes" for those (which I post in a repository on Github as well as on a blog called "AntiLog");
 6. Periodically, I print things out, Wikipedia articles or blog posts, essays and so forth (in PDF or other format). I am constantly printing stuff out - what I call "print-outs" - which I read and then file away in file folders in my filing cabinets (I have two filing cabinets next to my desk);
     * a) Each folder has a "start_date" and "end_date", and I try to stamp each of my print-outs with a timestamp, so I know in what order I printed and read them; (everything else goes in my various "LOG" files;
     * b) Eventually, file folders are retired to the filing cabinets;
