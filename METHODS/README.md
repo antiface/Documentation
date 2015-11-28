@@ -17,3 +17,35 @@
 
 ##NOTES & LOGS
 * In general, I'm constantly taking notes, documenting my processes, procedures, methodologies. I have several notebooks going at any given time. One is always placed next to my desk. I take ample notes in this notebook whenever I am working at the computer, or in the "office" generally (I actually work in an office/art studio/recording studio, a workspace I call "The Historiothèque". See: [Historiotheque] (https://github.com/antiface/Historiotheque))
+* I also do a great deal of "logging" on the computer, and also in various notebooks reserved for that purpose;
+* To give you an idea of what my various logging and related activities might look like on my computer, on the Desktop, here is what a folder/directory structure might look like. This isn't what I am using, it's just an example of a "Schema" I might use, to illustrate how everything that is important to me, and important enough to LOG, effectively gets LOGGED in various places in the directories. And so, we have:
+
+Structure du dossier pour le volume Windows7_OS
+Le numéro de série du volume est 6472-3087
+C:.
+├───IMAGES 2016
+│   ├───DIGITAL_DESIGNS 2016
+│   ├───HISTORY_PAINTINGS 2016
+│   ├───PORTRAITS 2016
+│   └───OTHER IMAGES 2016
+├───LOGS 2016
+│   ├───DAYPATHS 2016
+│   ├───DREAMS 2016
+│   └───WORKSPACE 2016
+│       ├───ARCHIVES 2016
+│       │   └───FOLDER_COMPRESSION_METADATA_LOGS 2016
+│       ├───BIBLIOGRAPHY 2016
+│       ├───CONCEPTLOGS 2016
+│       ├───GENERAL_JOURNAL_LOGS 2016
+│       ├───LABORATORY_NOTEBOOK_LOGS 2016
+│       │   ├───DOCUMENTATION 2016
+│       │   └───FIELDNOTES 2016
+│       ├───PROBLEM_SOLUTION_LOGS 2016
+│       └───WORKSPACE_SNAPSHOTS_2016
+├───NOTES 2016
+│   ├───ABOUT_NOVELS_CURRENTLY 2016
+│   ├───NOTES & SCRIPTS - PROGRAMMING 2016
+│   └───RANTS 2016
+└───REFMATS 2016
+    ├───IMAGES - REFMATS
+    └───PDFs - REFMATS
