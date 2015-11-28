@@ -21,29 +21,54 @@
 * To give you an idea of what my various logging and related activities might look like on my computer, on the Desktop, here is what a folder/directory structure might look like. This isn't what I am using, it's just an example of a "Schema" I might use, to illustrate how everything that is important to me, and important enough to LOG, effectively gets LOGGED in various places in the directories. And so, we have:
 
 
-> ├───IMAGES 2016
-> │   ├───DIGITAL_DESIGNS 2016
-> │   ├───HISTORY_PAINTINGS 2016
-> │   ├───PORTRAITS 2016
-> │   └───OTHER IMAGES 2016
-> ├───LOGS 2016
-> │   ├───DAYPATHS 2016
-> │   ├───DREAMS 2016
-> │   └───WORKSPACE 2016
-> │       ├───ARCHIVES 2016
-> │       │   └───FOLDER_COMPRESSION_METADATA_LOGS 2016
-> │       ├───BIBLIOGRAPHY 2016
-> │       ├───CONCEPTLOGS 2016
-> │       ├───GENERAL_JOURNAL_LOGS 2016
-> │       ├───LABORATORY_NOTEBOOK_LOGS 2016
-> │       │   ├───DOCUMENTATION 2016
-> │       │   └───FIELDNOTES 2016
-> │       ├───PROBLEM_SOLUTION_LOGS 2016
-> │       └───WORKSPACE_SNAPSHOTS_2016
-> ├───NOTES 2016
-> │   ├───ABOUT_NOVELS_CURRENTLY 2016
-> │   ├───NOTES & SCRIPTS - PROGRAMMING 2016
-> │   └───RANTS 2016
-> └───REFMATS 2016
->    ├───IMAGES - REFMATS
->    └───PDFs - REFMATS
+ ├───IMAGES 2016
+ 
+ │   ├───DIGITAL_DESIGNS 2016
+ 
+ │   ├───HISTORY_PAINTINGS 2016
+ 
+ │   ├───PORTRAITS 2016
+ 
+ │   └───OTHER IMAGES 2016
+ 
+ ├───LOGS 2016
+ 
+ │   ├───DAYPATHS 2016
+ 
+ │   ├───DREAMS 2016
+ 
+ │   └───WORKSPACE 2016
+ 
+ │       ├───ARCHIVES 2016
+ 
+ │       │   └───FOLDER_COMPRESSION_METADATA_LOGS 2016
+ 
+ │       ├───BIBLIOGRAPHY 2016
+ 
+ │       ├───CONCEPTLOGS 2016
+ 
+ │       ├───GENERAL_JOURNAL_LOGS 2016
+ 
+ │       ├───LABORATORY_NOTEBOOK_LOGS 2016
+ 
+ │       │   ├───DOCUMENTATION 2016
+ 
+ │       │   └───FIELDNOTES 2016
+ 
+ │       ├───PROBLEM_SOLUTION_LOGS 2016
+ 
+ │       └───WORKSPACE_SNAPSHOTS_2016
+ 
+ ├───NOTES 2016
+ 
+ │   ├───ABOUT_NOVELS_CURRENTLY 2016
+ 
+ │   ├───NOTES & SCRIPTS - PROGRAMMING 2016
+ 
+ │   └───RANTS 2016
+ 
+ └───REFMATS 2016
+ 
+    ├───IMAGES - REFMATS
+    
+    └───PDFs - REFMATS
