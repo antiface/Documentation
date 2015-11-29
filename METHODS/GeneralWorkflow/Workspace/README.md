@@ -38,3 +38,8 @@
 - - - - -
 
 > If the input of the function represents time, then the derivative represents change with respect to time. For example, if f is a function that takes a time as input and gives the position of a ball at that time as output, then the derivative of f is how the position is changing in time, that is, it is the velocity of the ball.
+
+- - - - -
+
+### Historiotopic "Velocity"
+* We can therefore begin speaking of "historiotopic velocity", defined as the changes in the configuration(s) of the W-space "with respect to time";
