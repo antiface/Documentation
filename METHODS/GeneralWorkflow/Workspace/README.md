@@ -54,4 +54,9 @@
 * For the H-house, the functional requirements which must be satisfied are to "consume" the InFlow (inputs, raw materials, resources, etc.) and "produce" the OutFlow: It must have the capacity to UNLOAD and STORE INPUTS and ASSEMBLE and LOAD ORDERS as OUTPUTS for shipment (end of Warehouse metaphor);
 * In any case, the attributes of INPUTS and OUTPUTS in the Historiothèque which are relevant for design decision making are: Physical attributes, Operational attributes, and Managerial attributes;
 * In another section, we will be speaking of all of this as the "LOGISTICS OF THE HISTORIOTHÈQUE";
-* (Ref. McGinnis, L.: An object oriented and axiomatic theory of warehouse design. In: Carrano, A., Gue, K., de Koster, R., Ogle, M., Montreuil, B., Smith, J. (eds.) 12th International Material Handling Research Colloquium--2012. Material Handling Industries of America (2013))
+
+- - - - -
+
+> (Ref. McGinnis, L.: An object oriented and axiomatic theory of warehouse design. In: Carrano, A., Gue, K., de Koster, R., Ogle, M., Montreuil, B., Smith, J. (eds.) 12th International Material Handling Research Colloquium--2012. Material Handling Industries of America (2013))
+
+- - - - -
