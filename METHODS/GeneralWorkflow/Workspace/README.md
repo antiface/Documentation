@@ -1,6 +1,6 @@
 #WORKSPACE
 
-Note on notation: In mathematical notation, ordered set operators indicate whether an object precedes or succeeds another. The  relationship x precedes y is written x ≺ y.
+> Note on notation: In mathematical notation, ordered set operators indicate whether an object precedes or succeeds another. The  relationship x precedes y is written x ≺ y.
 - - - - -
 ###The Ever-Changing Workspace
 * What I call the "Historiotopia" is essentially the three-dimensional "surface" of the Workspace;
@@ -12,4 +12,4 @@ Note on notation: In mathematical notation, ordered set operators indicate wheth
 * If w2 was NOT accessible from w1, then there could be no w2, the Workspace could not be in such a state;
 * Without getting into too many details and abstractions, we say that thermodynamically speaking, w2 is "adiabatically accessible" from w1, meaning that 
 
-Adiabatic accessibility: A state Y is adiabatically accessible from a state X, in symbols X ≺ Y ,  if it is possible to change the state from X to Y by means of an interaction with some device  (which may consist of mechanical and electrical parts as well as auxiliary thermodynamic systems) and a weight, in such a way that the device returns to its initial state at the end of the process whereas the weight may have changed its position in a gravitational field.
+> Adiabatic accessibility: A state Y is adiabatically accessible from a state X, in symbols X ≺ Y ,  if it is possible to change the state from X to Y by means of an interaction with some device  (which may consist of mechanical and electrical parts as well as auxiliary thermodynamic systems) and a weight, in such a way that the device returns to its initial state at the end of the process whereas the weight may have changed its position in a gravitational field.
