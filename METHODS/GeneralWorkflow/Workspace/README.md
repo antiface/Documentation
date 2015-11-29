@@ -41,5 +41,11 @@
 
 - - - - -
 
-### Historiotopic "Velocity"
+### Workspace-as-Historiothèque, Historiothèque-as-"Warehouse"
 * We can therefore begin speaking of "historiotopic velocity", defined as the changes in the configuration(s) of the W-space "with respect to time";
+* In essence, what we have been calling the Workspace or W-space is actually technically referred to as "The Historiothèque";à
+* That is, The Historiothèque is the name of the "Art Studio" if you will, and "Office";
+* The Workspace that we are imagining is Modular and the operations that take place there are multifarious, are of a wide range, variety, and are by definition interdisciplinary;
+* "Velocity", then, in the Workspace or Historiothèque is an important thing to consider, since the Historiothèque is essentially a Workshop, or "manufacturing operation";
+* In that regard, we can speak of INPUTS and OUTPUTs, of the "InFlow" of inputs and "OutFlow" of outputs;
+* 
