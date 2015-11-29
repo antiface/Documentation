@@ -48,4 +48,5 @@
 * The Workspace that we are imagining is Modular and the operations that take place there are multifarious, are of a wide range, variety, and are by definition interdisciplinary;
 * "Velocity", then, in the Workspace or Historiothèque is an important thing to consider, since the Historiothèque is essentially a Workshop, or "manufacturing operation";
 * In that regard, we can speak of INPUTS and OUTPUTs, of the "InFlow" of inputs and "OutFlow" of outputs;
-* 
+* If, for the moment, we regard the Historiothèque as a kind of "Storehouse" (let's call it a "Warehouse"), then was can speak of a warehouse as having an input flow, or InFlow, of shipments from suppliers, and an output flow, or OutFlow, of shipments to customers;
+* In this vein, a Warehouse is a facility that interrupts the flow of goods from the suppliers of products to the customers for those products. This is where the Historiothèque DIFFERS from a standard Warehouse: In the case of the H-house, we would say that it interrupts the flow of INPUTS, of raw materials such as art supplies, other goods, and of SIGNALS such as communications, orders, etc., FROM the outside TO the end-user or audience for the productions of the operating H-house;
