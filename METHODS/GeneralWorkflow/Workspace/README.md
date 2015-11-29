@@ -3,6 +3,7 @@
 > Note on notation: In mathematical notation, ordered set operators indicate whether an object precedes or succeeds another.
 > The  relationship x precedes y is written x ≺ y.
 - - - - -
+
 ###The Ever-Changing Workspace
 * What I call the "Historiotopia" is essentially the three-dimensional "surface" of the Workspace;
 * At any given moment in time, the Workspace is in a current "configuration" or "state";
