@@ -24,4 +24,4 @@ In any case, I often tell people that my interdisciplinary art and research prac
 * I also do a great deal of "logging" on the computer, and also in various notebooks reserved for that purpose;
 * To give you an idea of what my various logging and related activities might look like on my computer, on the Desktop, here is what a folder/directory structure might look like. This isn't what I am using, it's just an example of a "Schema" I might use, to illustrate how everything that is important to me, and important enough to LOG, effectively gets LOGGED in various places in the directories. And so, for example, we might have:
 
-![Sample Directory Structure](https://databasearts.files.wordpress.com/2015/11/sampledirectorystructure_version_2016_28nov15a.jpg)
+![Sample Directory Structure](https://historiotheque.files.wordpress.com/2016/01/sampledirectorystructure_version_2016_28nov15a.jpg)
