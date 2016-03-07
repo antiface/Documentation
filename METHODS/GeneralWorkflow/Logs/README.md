@@ -6,3 +6,4 @@
     * GeneralJournalLog - Financial reporting, accounting, accountancy, accountability;
     * FIELDNOTES - Obvious what this is;
     * LABNOTES - Same, but inside the lab (otherwise, "in the field");
+    * WORKSPACE_SNAPSHOT - Regular screen-captures of work important to retain and see at future date/for future reference;
