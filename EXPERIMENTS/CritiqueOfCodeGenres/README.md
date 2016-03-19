@@ -2,9 +2,18 @@
 * I began writing about this recently, the idea of studying computer programs, code, applications, etc., in terms of "genres";
 * The idea is to treat code as what it actually is: text;
 * Since code = text, then it is possible to treat source code, applications, etc., in terms of "code genres", if you will (a.k.a. "application genres");
-* We will begin this experiment by looking at a bundle of Github repositories of apps written in Python - mostly in the Django framework - 
+* We will begin this experiment by looking at a bundle of Github repositories of apps written in Python - mostly in the Django framework - that are of the "accounting app genre";
+* We will also be developing a method for going over repositories like these, going over all of the files and folders, essentially going over all of the contents of the repos to try to make sense of the given app, the app structure and so forth;
+* For now, we will begin with a list of the Python/Django accounting apps that have been selected for this exercise, and then we will begin by looking at the various "models.py" programs within each pertinent section of the code base;
+* Choosing to look at all the "models.py" scripts is meant to be in line with a practice of "introspection", if you will, more in a philosophical sense than in a programming sense;
+* That is, what we are essentially doing is a form of "code review", but it is a "literate" and "critical" code review;
+* First of all, by looking at code genres, we are presuming that computer applications have "genres" as works of literature or painting or music do;
+* Secondly, we want to "inspect" the various code bases to see how they are structured;
+* In the end, we are treating "computer code" as a form of "literature" (text) and so it will also have its own "discursive structures";
+* That is, the application itself is part of a "discourse", with its own universe of discourse/domain of discourse, discursive structures, and so forth;
+* Without further ado... the list of repositories we have chosen:
 
-### ACCOUNTING APP GENRE: MOSTLY PYTHON/DJANGO (ABRIDGED, ONLY BEST)
+### ACCOUNTING APP GENRE: MOSTLY PYTHON/DJANGO
 * [masnun/django-accounts-app: A sample app that manages a few accounts and their transactions](https://github.com/masnun/django-accounts-app)
 * [keeran6/check-logist: Django-admin-based system for logistics company accounting.](https://github.com/keeran6/check-logist)
 * [hereischen/django-luoji-accounts: A general account app for projects.](https://github.com/hereischen/django-luoji-accounts)
@@ -33,6 +42,10 @@
 * [hasgeek/pennywise: Web-based double-entry accounting](https://github.com/hasgeek/pennywise)
 * [cperler/accounting: Take control of your finances.](https://github.com/cperler/accounting)
 * [ajpocus/djac: A double entry accounting app for Django.](https://github.com/ajpocus/djac)
+
+### Critical, Discursive Code Inspection/Review
+* Now we will take the same repositories listed above and "dig" into them a little deeper;
+* We will begin by inspecting the various "models.py" pieces of code:
 
 ### A DEEPER LOOK INSIDE (REFLECTION, INTROSPECTION, CRITIQUE OF CODE GENRE
 * [django-accounts-app/models.py at master · masnun/django-accounts-app](https://github.com/masnun/django-accounts-app/blob/master/accounts/models.py)
@@ -65,3 +78,6 @@
 * [djac/models.py at master · ajpocus/djac](https://github.com/ajpocus/djac/blob/master/accounts/models.py)
 * [Writing Models for Your First Python Django Application | Python Central](http://pythoncentral.io/writing-models-for-your-first-python-django-application/)
 * [Model–view–controller - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+
+### PYTHONIC REFLECTIONS
+* (coming soon!)
