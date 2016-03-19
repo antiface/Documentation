@@ -1,0 +1,25 @@
+# THE NEW DOCUMENTATION
+- I am thinking of a New Documentation for software projects;
+- I think that a software project, if it is truly open source, has to be "accessible" to non-experts;
+- It is more and more true today, and will be even more true in the future, that source code is being "read" by non-experts, by non-programmers, non-coders;
+- That is to say, more and more, code is not only being handled by the "experts", the engineers and so forth;
+- What happens is that more and more people are having to work with code sets;
+- For example, more and more companies today are essentially software companies;
+- Software is touching everything today, and it will only trend upwards in coming years and decades;
+- So what you have is that in any given company that you might be working in, there will likely be source code, a code base of some sort;
+- And even if you are just a manager or whatnot, an individual with no expertise in actual coding/programming, you are still increasingly likely to be interacting with code created by your company;
+- And so you may need to actually LOOK at the code itself;
+- That is what the New Documentation is, in part;
+  - It means adding annotations or comments, or just plain documentation designed for non-technical-experts;
+  - As stated above, individuals working in companies across countless industries will increasingly have to deal with engineers, programmers, and their code bases;
+  - A manager, for instance, cannot truly do his/her work if the code and the engineers' work is in a "black box" somewhere, untouchable;
+- Ergo, one needs to make source code READABLE TO NON-EXPERTS;
+- I plan to develop these concepts further, drawing from my expertise in discourse analysis, content analysis, and literary theory / critical theory, and philosophy of course;
+- In philosophy, for instance, one deals with very complex textual structures, texts that have many layers, that are complex in structure;
+- Software/code in essence IS only Yet Another Form of Text;
+- Code = Text, and so code itself, source code, needs to be studied as texts and other documents are studied in other fields;
+- Essentially, since the birth of writing in the Sumerian cuneiform clay tablets, until today in our virtual machines and so forth, tables have been extremely important in the entire history of civilization;
+- Writing is Writing is Writing; CODE = TEXT; PERIOD!
+- And so as there are GENRES in literary theory, there are GENRES IN CODE, in source code, there are GENRES OF APPLICATION//APPLICATION GENRES;
+- I believe that one must study source code as a literary GENRE, and there are many subgenres of CODE;
+- We only need to develop adequate and proper ways of DOCUMENTING CODE to reflect these new realities.
