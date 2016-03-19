@@ -76,8 +76,6 @@
 * [pennywise/ledgers.py at master · hasgeek/pennywise](https://github.com/hasgeek/pennywise/blob/master/pennywise/ledgers.py)
 * [accounting/models.py at master · cperler/accounting](https://github.com/cperler/accounting/blob/master/accounting/models.py)
 * [djac/models.py at master · ajpocus/djac](https://github.com/ajpocus/djac/blob/master/accounts/models.py)
-* [Writing Models for Your First Python Django Application | Python Central](http://pythoncentral.io/writing-models-for-your-first-python-django-application/)
-* [Model–view–controller - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
 ### PYTHONIC REFLECTIONS
 * (coming soon!)
