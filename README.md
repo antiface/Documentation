@@ -1,4 +1,4 @@
-Documentation
+Documentation ![] (https://zenodo.org/badge/3845/antiface/Documentation.svg)
 =============
 * Tom de Lancey describes an approach on documentation:
 * "(…) we do not want to waste time and effort in documenting something that we have not yet discovered how to do. We document as we discover. We document only what we actually DID, as opposed to what we thought we were going to do."
