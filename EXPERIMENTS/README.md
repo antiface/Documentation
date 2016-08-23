@@ -8,6 +8,7 @@
 * [Theatre Pauvre] (https://github.com/antiface/Documentation/tree/master/EXPERIMENTS/TheatrePauvre)
 * [White Point Project] (https://github.com/antiface/Documentation/tree/master/EXPERIMENTS/WhitePointProject)
 
+## INTERNALS
 ### BASICS OF EXPERIMENTAL METHODOLOGY
 - First and foremost, "EXPERIMENTS" herein are conceived of and designed within the scope of FIELD ART and ART OPERATIONS in the laboratory called THE HISTORIOTHEQUE;
 - Secondly, "EXPERIMENTS" are ALWAYS held within the confines, and various contexts, of THE HISTORIOTHEQUE, as LABORATORY;
