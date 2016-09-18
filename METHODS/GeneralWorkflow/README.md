@@ -1,5 +1,6 @@
 #GENERAL WORKFLOW
-* Methods constantly being retired, updated;
+
+(Methods constantly being retired, updated)
 
 ##Abridged Basic Daily Workflow
 1. First thing, top of the morning, is to open up a new .txt file called "DAYPATH_CURRENTDATE.txt" which contains a rough outline of what I need to get done today;
