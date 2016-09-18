@@ -1,4 +1,4 @@
-#GENERAL WORKFLOW
+#GENERAL WORKFLOW * Methods constantly being retired, updated;
 ##Abridged Basic Daily Workflow
 1. First thing, top of the morning, is to open up a new .txt file called "DAYPATH_CURRENTDATE.txt" which contains a rough outline of what I need to get done today;
 2. Second, I start a "LOG_CURRENTDATE.txt" file where I will keep a running record of all of the web sites / web resources that I use in the course of the day;
