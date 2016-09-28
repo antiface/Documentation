@@ -11,5 +11,5 @@
 * Even in silent cinema, there were "INTERTITLES" that functioned as a sort of "rhythmic" type "punctuation" if you will, of various "sequences" often separated by short "intertitle" sequences;
 
 ![TERMINUS-POINTS](https://historiotheque.files.wordpress.com/2016/09/terminus_points_28sep16a-16h29.jpg)
-### Boundary markers as Endpoints/Terminus-Points;
+### Boundary markers as Endpoints/Terminus-Points
 * [...]
