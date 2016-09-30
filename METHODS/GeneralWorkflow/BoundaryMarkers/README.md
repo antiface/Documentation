@@ -1,6 +1,6 @@
 ### The Use of Boundary Markers in The Workspace (METHOD/RATIONALE)
 * Boundaries, and things that "mark" or "indicate" boundaries are of great importance in many domains;
-* In an interdisciplinary art practice such as mine, including lots of various research activities, etc., I have found that setting boundaries has been of utmost importance; It is important to not only SET boundaries, but RESPECT set boundaries; (and also when others are involved, it's important to "enforce" if you will the respect of those boundaries that you set;
+* In an interdisciplinary art practice such as mine, including lots of various research activities, etc., I have found that setting boundaries has been of utmost importance; It is important to not only SET boundaries, but RESPECT set boundaries; (and also when others are involved, it's important to "enforce" if you will the respect of those boundaries that you set, i.e. "commanding respect");
 * A simple example of how I have begun using "boundary markers" is in my writing;
 * I am constantly taking notes inside various notebooks and now what I do, after I put the ordinary TIMESTAMP, I write another stamp I call "Opus Incipit". This means that this is the "start" of the "writing session", i.e. the "Work Begins", a.k.a. the [START_SIGNAL];
 * When I am about to LEAVE the session, or END it, I put another stamp, the [STOP_SIGNAL] or [END_SIGNAL], which I write as "Finis Opera";
