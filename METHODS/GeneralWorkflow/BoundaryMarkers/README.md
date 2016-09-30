@@ -16,4 +16,5 @@
 * Lately, I have begun calling the work that I do "Field Art". In Field Art, I do two things. I go "out into the field" and do various forms of data-collection, data-logging, etc., and then when I get back into the Studio or Atelier, I create art based on my field materials, amongst other things;
 * What I have noticed recently is that I also need to carefully "delimit" the FIELD when I am as I said, "out in the field"; This is non-trivial, not obvious;
 * The other part of field art is that I am recreating "fields" in my visual work as in my audio work; In that regard it is an "Atmospheric Art", I build, create, Atmospheres; One can see it as building "Rooms" of sorts, through a careful understanding of the dynamics of Rooms, and the design principles behind the construction of Atmospheres/Rooms, or various "Spaces" as I often call them;
+* I firmly believe that it is imperative that I always carefully delimit the Field-in-Question or Field-at-Hand; I do this through the use of Boundary markers, a.k.a. Endpoints/Punctuating-Intertitles/Terminus-Points;
 * [...]
