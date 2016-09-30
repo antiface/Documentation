@@ -12,4 +12,8 @@
 
 ![TERMINUS-POINTS](https://historiotheque.files.wordpress.com/2016/09/terminus_points_28sep16a-16h29.jpg)
 ### Boundary markers as Endpoints/Terminus-Points
+* When one begins to realize the importance of carefully delimited boundaries and the respect of these boundaries, and when one begins to observe this in all things, much becomes clear that maybe wasn't before;
+* Lately, I have begun calling the work that I do "Field Art". In Field Art, I do two things. I go "out into the field" and do various forms of data-collection, data-logging, etc., and then when I get back into the Studio or Atelier, I create art based on my field materials, amongst other things;
+* What I have noticed recently is that I also need to carefully "delimit" the FIELD when I am as I said, "out in the field"; This is non-trivial, not obvious;
+* The other part of field art is that I am recreating "fields" in my visual work as in my audio work; In that regard it is an "Atmospheric Art", I build, create, Atmospheres; One can see it as building "Rooms" of sorts, through a careful understanding of the dynamics of Rooms, and the design principles behind the construction of Atmospheres/Rooms, or various "Spaces" as I often call them;
 * [...]
