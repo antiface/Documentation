@@ -20,3 +20,6 @@
 * Since thinking itself as well as direct, immediate sensory-perception of oneself and one's surroundings tends to be more or less experienced as "continuous", as a continuous process / continuous flow, it can be useful to use boundary-creation standards such as I have described, to in essence learn to "discretize" these kinds of experiences;
 * It is the same thing when I am painting, i.e. I am in a "flow" state, time stands still, etc. It is therefore important to me that I properly demarcate the "endpoints" of this more or less "continuous" experience. That way I "discretize" it, the painting "session" becomes like an "object" that I can later use, both in my experience and experiential memory of it as well as whatever documentation I may have put to paper ABOUT IT, and of course the session is revealed through the finished product itself, the painting;
 * [...]
+
+### Boundary Turbulence
+* [...]
