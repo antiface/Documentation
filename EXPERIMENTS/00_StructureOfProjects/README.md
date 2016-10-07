@@ -18,4 +18,5 @@
 * For example, a Painting is an Image, and takes the data type of a kind of ARRAY or MATRIX, i.e. it is a two-dimensional "array structure" at least in its idealized, generalized form;
 * One of the goals of this methodology is to FORMALIZE art production processes in the creation of the concept of ART OPERATIONS;
 * The Art Operation is being formalized so that it can eventually be run with full autonomy, without human supervision, as a kind of distributed-autonomous corporation, in a formalized, distributed-autonomous ART MARKET (SEE: ART-OPS-IN-A-BOX CONCEPT);
+* PROJECT also includes INTERNALS (internal logic) and DOCUMENTATION (of METHODS, GENERAL WORKFLOW, SERIES, EXPERIMENTS);
 * [...]
