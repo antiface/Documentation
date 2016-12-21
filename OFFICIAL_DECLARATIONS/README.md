@@ -3,6 +3,7 @@
 * [Introducting The Archives-Painting] (https://medium.com/the-painters-almanach/introducing-the-archive-painting-a313f08e173)
 * [Entering The Historiothèque] (https://medium.com/the-painters-almanach/entering-the-historiothèque-fe57dcdf64dc)
 * [Golden Autumns of Anchorite Hearts: Exposition of the Almanach system] (https://medium.com/the-painters-almanach/golden-autumns-of-anchorite-hearts-96cae8ea62f6)
+* [The Perfect Workspace: Artist Ideas for Common Nonsense] (https://medium.com/the-painters-almanach/the-perfect-workspace-dce2d3314d7c)
 * [...]
 
 [A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
