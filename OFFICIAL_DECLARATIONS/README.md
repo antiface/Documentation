@@ -1,5 +1,5 @@
 ### Documentation / OFFICIAL_DECLARATIONS
-* Official Declaration of Production-Year, etc.;
+* [Official Declaration of Production-Year, 2017-2018] (https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2017-2018-1cc81705450b)
 * [...]
 
 [A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
