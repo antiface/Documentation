@@ -1,0 +1,34 @@
+Ambient Experimental Design Workflow Methodology Official Release v.1.0.1
+
+SCHEMA (COLLAPSED):
+ — METHODS
+ — — DOCUMENTATION
+ — — INTERNALS
+ — — RESOURCES
+— WORKSPACE
+ — — DOCUMENTATION
+ — — INTERNALS
+ — — RESOURCES
+ — HISTORY (SELF,METHODS,WORKSPACE)
+
+SCHEMA (EXPANDED):
+ — METHODS
+ — — DOCUMENTATION
+ — — — — THEORY
+ — — — — METHODS
+ — — INTERNALS
+ — — — — METHODS
+ — — RESOURCES
+ — — — — PROPRIETARY (SELF)
+ — — — — EXTERNAL
+ — WORKSPACE
+ — — DOCUMENTATION
+ — — — — THEORY
+ — — — — METHODS
+ — — INTERNALS
+ — — — — METHODS
+ — — RESOURCES
+ — — — — PROPRIETARY (SELF)
+ — — — — EXTERNAL
+[…]
+A.G. © 2016. All Rights Reserved.
