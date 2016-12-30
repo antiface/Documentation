@@ -1,1 +1,11 @@
+SCHEMA (EXPANDED):
+ — METHODS
+ — — DOCUMENTATION
+ — — — — THEORY
+ — — — — METHODS
+ — — INTERNALS
+ — — — — METHODS
+ — — RESOURCES
+ — — — — PROPRIETARY (SELF)
+ — — — — EXTERNAL
 ...
