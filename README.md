@@ -7,7 +7,7 @@ Official Release v.1.0.1. Production-Ready. A.G. (c) 2017. All Rights Reserverd.
 
 * Tom de Lancey describes an approach on documentation:
 * "(…) we do not want to waste time and effort in documenting something that we have not yet discovered how to do. We document as we discover. We document only what we actually DID, as opposed to what we thought we were going to do."
-* [Tom de Lancey, Emergent Documentation: One way that agile is very different from waterfall, 2013] (https://www.linkedin.com/groups/Emergent-Documentation-One-way-that-43421.S.218531537)
+* [Tom de Lancey, Emergent Documentation: One way that agile is very different from waterfall, 2013](https://www.linkedin.com/groups/Emergent-Documentation-One-way-that-43421.S.218531537)
 
 Critical Points:
 
@@ -34,7 +34,7 @@ Critical Points:
 21. Create documentation only when you need it at the appropriate point in the life cycle.
 22. Update documentation only when it hurts.
 
-[Agile/Lean Documentation: Strategies for Agile Software Development] (http://www.agilemodeling.com/essays/agileDocumentation.htm)
+[Agile/Lean Documentation: Strategies for Agile Software Development](http://www.agilemodeling.com/essays/agileDocumentation.htm)
  
 Best Practices for Increasing the Agility of Documentation
 
@@ -57,9 +57,8 @@ Best Practices for Increasing the Agility of Documentation
 17. Recognize that you need some documentation
 18. Get someone with writing experience
 
-[Agile/Lean Documentation: Strategies for Agile Software Development] (http://www.agilemodeling.com/essays/agileDocumentation.htm)
+[Agile/Lean Documentation: Strategies for Agile Software Development](http://www.agilemodeling.com/essays/agileDocumentation.htm)
 
-## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
-A.G. (c) 2017. ![A.G. (c) 2017. All Rights Reserved]
-(https://historiotheque.files.wordpress.com/2016/12/ag_signature_official_2017_50px_cropped_pink.jpg) All Rights Reserved.
+A.G. (c) 2017. ![A.G. (c) 2017. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/12/ag_signature_official_2017_50px_cropped_pink.jpg) All Rights Reserved.
