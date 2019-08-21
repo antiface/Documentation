@@ -1,5 +1,7 @@
 ### Documentation / OFFICIAL_DECLARATIONS
 * [Official Declaration of Production-Year, 2017-2018](https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2017-2018-1cc81705450b)
+* [Official Declaration of Production-Year, 2018-2019](https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2018-2019-e12e1d8faec0)
+* [Official Declaration of Production-Year, 2019-2020](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2019-2020-604367d1c6e1)
 * [Introducting The Archives-Painting](https://medium.com/the-painters-almanach/introducing-the-archive-painting-a313f08e173)
 * [Entering The Historiothèque](https://medium.com/the-painters-almanach/entering-the-historiothèque-fe57dcdf64dc)
 * [Golden Autumns of Anchorite Hearts: Exposition of the Almanach system](https://medium.com/the-painters-almanach/golden-autumns-of-anchorite-hearts-96cae8ea62f6)
