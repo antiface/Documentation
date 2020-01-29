@@ -2,4 +2,4 @@
 * THEORY: OPERATING CONCEPT OF THE ARCHIVES-PROJECT AS FIRST DERIVATIVE OF OPERATING CONCEPT OF THE HISTORY-PROJECT, AS TECHNIQUE-PAINTING WAS TO THE HISTORY-PAINTING WITHIN THE HISTORY-PROJECT;
 * [...]
 
-A.G. (c) 2020. ![A.G. (c) 2020. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/12/ag_signature_official_2017_50px_cropped_pink.jpg) All Rights Reserved.
+A.G. (c) 2017. ![A.G. (c) 2017. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/12/ag_2017_signature_v1-0-1_50px.jpg) All Rights Reserved.
