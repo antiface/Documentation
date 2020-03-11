@@ -81,7 +81,7 @@
 * Let us take a look at the first Python accounting app in our list: [masnun/django-accounts-app: A sample app that manages a few accounts and their transactions](https://github.com/masnun/django-accounts-app);
 * As stated above, we will first look at a file called "models.py": [django-accounts-app/models.py at master · masnun/django-accounts-app](https://github.com/masnun/django-accounts-app/blob/master/accounts/models.py);
 * Within "models.py", we want to look at these two lines, L7 and L16, where Classes are defined:
-  * [accounts/models.py#L7] (https://github.com/masnun/django-accounts-app/blob/master/accounts/models.py#L7) (i.e. "class Account(models.Model)");
-  * [accounts/models.py#16] (https://github.com/masnun/django-accounts-app/blob/master/accounts/models.py#L16) (i.e. "class Transaction(models.Model)");
+  * [accounts/models.py#L7](https://github.com/masnun/django-accounts-app/blob/master/accounts/models.py#L7) (i.e. "class Account(models.Model)");
+  * [accounts/models.py#16](https://github.com/masnun/django-accounts-app/blob/master/accounts/models.py#L16) (i.e. "class Transaction(models.Model)");
 * Namely, we have two classes, one called "Account" and one called "Transaction";
 * This allows us to get a feel for what the "objects", if you will, are for this particular software project;
