@@ -47,7 +47,7 @@
 * Now we will take the same repositories listed above and "dig" into them a little deeper;
 * We will begin by inspecting the various "models.py" pieces of code:
 
-### A DEEPER LOOK INSIDE (REFLECTION, INTROSPECTION, CRITIQUE OF CODE GENRE
+### A DEEPER LOOK INSIDE (REFLECTION, INTROSPECTION, CRITIQUE OF CODE GENRE)
 * [django-accounts-app/models.py at master · masnun/django-accounts-app](https://github.com/masnun/django-accounts-app/blob/master/accounts/models.py)
 * [check-logist/models.py at master · keeran6/check-logist](https://github.com/keeran6/check-logist/blob/master/persons/models.py)
 * [django-luoji-accounts/models.py at master · hereischen/django-luoji-accounts](https://github.com/hereischen/django-luoji-accounts/blob/master/accounts/models.py)
