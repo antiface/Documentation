@@ -1,8 +1,8 @@
-#GENERAL WORKFLOW
+# GENERAL WORKFLOW
 
 (Methods constantly being retired, updated)
 
-##Abridged Basic Daily Workflow
+## Abridged Basic Daily Workflow
 1. First thing, top of the morning, is to open up a new .txt file called "DAYPATH_CURRENTDATE.txt" which contains a rough outline of what I need to get done today;
 2. Second, I start a "LOG_CURRENTDATE.txt" file where I will keep a running record of all of the web sites / web resources that I use in the course of the day;
 3. I then open up my latest  "ConceptLog.txt" and latest "ProblemSolutionLog.txt" files;
@@ -20,9 +20,9 @@
 9. In any case, other than that, I am either painting or composing/playing/recording music (or doing sound design), or else I'm writing something, a novel I am working on or a philosophical essay, or just taking random notes of my thoughts and so forth (and my rants, which I keep a log of). I might work on a bibliography or else I'm tweeting things or posting things on-line, everything from sounds to images to texts;
 10. Also, and in conclusion, I am constantly going over my various methods and "optimizing" them. I look at what's not working in the current state of the system and make corrections. I also have an archive of visual arts materials, art objects, that I maintain. I spend a lot of time "In The Archives" as I like to say, going over stuff, making sure everything is properly "bagged & tagged", making sure everything is findable and whatnot, organized, classified properly, etc. I also write code, mostly in Python, which takes a lot of my time, as does the various learning materials that I am consuming on-line, whether in the form of more formal "MOOCs" or else just videos, podcasts, etc. etc.
 
-In any case, I often tell people that my interdisciplinary art and research practice mostly consists of two things: TROUBLESHOOTING and BOOKKEEPING. I'm not joking when I say this. Maintaining the "methods" or "system" listed above, one can easily see how troubleshooting and bookkeeping would be a natural part of the process. The filing system, for instance, which consists of hundreds of folder as well as thousands of index cards and various other related materials is basically a day job all on its own. What I hope to get too soon is a description of how all this stuff "fits together" in the general everyday running of what I call an "Art Operation", a.k.a. "A Day In The Life Of The Historiothèque". (For a general description of the Workspace, see: [Historiotopia] (https://github.com/Historiomics/Historiotopia))
+In any case, I often tell people that my interdisciplinary art and research practice mostly consists of two things: TROUBLESHOOTING and BOOKKEEPING. I'm not joking when I say this. Maintaining the "methods" or "system" listed above, one can easily see how troubleshooting and bookkeeping would be a natural part of the process. The filing system, for instance, which consists of hundreds of folder as well as thousands of index cards and various other related materials is basically a day job all on its own. What I hope to get too soon is a description of how all this stuff "fits together" in the general everyday running of what I call an "Art Operation", a.k.a. "A Day In The Life Of The Historiothèque". (For a general description of the Workspace, see: [Historiotopia](https://github.com/Historiomics/Historiotopia))
 
-##NOTES & LOGS
+## NOTES & LOGS
 * In general, I'm constantly taking notes, documenting my processes, procedures, methodologies. I have several notebooks going at any given time. One is always placed next to my desk. I take ample notes in this notebook whenever I am working at the computer, or in the "office" generally (I actually work in an office/art studio/recording studio, a workspace I call "The Historiothèque". See: [Historiotheque] (https://github.com/antiface/Historiotheque));
 * I also do a great deal of "logging" on the computer, and also in various notebooks reserved for that purpose;
 * To give you an idea of what my various logging and related activities might look like on my computer, on the Desktop, here is what a folder/directory structure might look like. This isn't what I am using, it's just an example of a "Schema" I might use, to illustrate how everything that is important to me, and important enough to LOG, effectively gets LOGGED in various places in the directories. And so, for example, we might have:
