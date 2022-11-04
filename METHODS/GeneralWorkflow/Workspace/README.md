@@ -1,12 +1,12 @@
 ![HISTORIOTOPIA](https://historiotheque.files.wordpress.com/2016/01/historiotopia_17oct15c6.jpg)
 
-#WORKSPACE
+# WORKSPACE
 
 > Note on notation: In mathematical notation, ordered set operators indicate whether an object precedes or succeeds another.
 > The  relationship x precedes y is written x ≺ y.
 - - - - -
 
-###The Ever-Changing Workspace
+### The Ever-Changing Workspace
 * What I call the "Historiotopia" is essentially the three-dimensional "surface" of the Workspace;
 * At any given moment in time, the Workspace is in a current "configuration" or "state";
 * The "Historiotopia" is both the current state AND can refer to the changes of such states over time;
