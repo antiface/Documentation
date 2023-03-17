@@ -9,7 +9,7 @@
 * The "Daybook" file is made up of important excerpts from my "Notes" file;
 * This is how the refinement process works;
 * It's almost like a kind of alchemy;
-* After that, since I like to copy pertinent content from Wikipedi, I creat a "WikiWalks" file, i.e. __WIKIWALKS_2023.txt__;
+* After that, since I like to copy pertinent content from Wikipedia, I creat a "WikiWalks" file, i.e. __WIKIWALKS_2023.txt__;
 * This text file contains a log of all the Wikipedia content I find important, and each entry has a timestamp before the quote text;
 * I then have a __LOGS_2023.txt__ is a logfile which contains ALL of the websites I visit over the year;
 * I use a browser extension which allows me to save all my open tabs in various formats;
