@@ -34,6 +34,29 @@
 * Using this system so far, I haven't lost any content and I have the same content in multiple places, in a kind of "distributed" manner;
 * Another log which I keep is called the "Daypath" file, one for every year, i.e. __DAYPATHS_2023.txt__;
 * This file contains my daily routine and activities, mostly so I can review the entries (with timestamps!) the next day;
+
+## More On The Refinement Process:
+* I know that this is almost criminal for a researcher, but I copy content from Wikipedia onto my computer A LOT;
+* It's not quality content, but it's easy to navigate and it is EXTREMELY COMPREHENSIVE;
+* It's an *encyclopedia for the People*;
+* Now, in my Refinement Process of different .txt files, Wikipedia content ends up being repeated THREE TIMES, logged and saved in THREE PLACES: The "Notes" file, the "Daybook" file, AND the "WikiWalks" file;
+* I spoke of redundancy in this process and I can't stress it enough => Redundancy will save your life;
+* Redundancy will save you from what I tentatively call *archival collapse*;
+* Soren Kierkegaard is one of my all-time favorite authors and he is constantly reformulating his previous phrases;
+* Why is that, you think? Personally, I think it's because he understood the quality and nature of redundancy in WRITING: Redundancy has been used in writing *since the Beginning*;
+* Monastic scribes ended up transcribing documents *multiple times*;
+* There were no Xerox photocopiers during that period, so people, scribes and so on, needed to copy things out by hand;
+* Since copying always introduces *errors in the text*, you needed a form of what today might be called *error-correction*;
+* They did this, in part, by making multiple copies, and then historians and historiographers could later look at these multiple copies, as source material, and *compare them*;
+* Transcription errors will rarely happen at the same place, so by comparing multiple source documents, one can come to a sort of *original sourcecode*;
+* You just cancel out the *stray errors* and *maintain the integrity of the rest of the Text*;
+* This is in part why I copy everything in multple places, in multple .txt files on my local computer, and then copy them onto a cloud service such as Google Drive, OneDrive by Microsoft, or Dropbox, and probably much of the time, *all of the above*;
+* I copy my files on an external drive, on a USB drive that I keep on me at all times, and I have another external drive hidden in a completely different location;
+* I live by the river, and if the river ever overflowed and destroyed my home, I wouldn't lose a shred of data;
+* The worst that can happen is that I lose PART OF A FILE, *before backup*;
+* That happens, sometimes computers crash and so forth, or a file gets corrupted;
+* Yet, since I started keeping logs in 1994, I have lost only ONE DOCUMENT, a text called __Angel__, which is probably the best thing I ever wrote, but I was inexperienced back then and the file got corrupted when I saved it, and I lost the data forever;
+* The file was irrecuperable; the best I got was what I could remember from that moment of intense inspiration, and that wasn't all that much;
 * [...]
 
 __A.G. (c) 2023. All Rights Reserved__
