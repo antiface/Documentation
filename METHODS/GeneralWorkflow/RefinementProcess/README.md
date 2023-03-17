@@ -32,4 +32,8 @@
 * I back up my the entire contents of my folders on Google Drive, except for the spreadsheets for my budget;
 * I then back all new files on a USB drive, also;
 * Using this system so far, I haven't lost any content and I have the same content in multiple places, in a kind of "distributed" manner;
+* Another log which I keep is called the "Daypath" file, one for every year, i.e. __DAYPATHS_2023.txt__;
+* This file contains my daily routine and activities, mostly so I can review the entries (with timestamps!) the next day;
 * [...]
+
+__A.G. (c) 2023. All Rights Reserved__
