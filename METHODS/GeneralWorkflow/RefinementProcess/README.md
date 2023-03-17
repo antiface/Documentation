@@ -57,6 +57,19 @@
 * That happens, sometimes computers crash and so forth, or a file gets corrupted;
 * Yet, since I started keeping logs in 1994, I have lost only ONE DOCUMENT, a text called __Angel__, which is probably the best thing I ever wrote, but I was inexperienced back then and the file got corrupted when I saved it, and I lost the data forever;
 * The file was irrecuperable; the best I got was what I could remember from that moment of intense inspiration, and that wasn't all that much;
+
+### One Last Thing About My Logging Practice:
+* As I think I have mentioned, I keep a careful log of every website - of note - that I visit;
+* I can open up to 50 or so Chrome instances/tabs before my RAM starts to be saturated, so I have to close them as soon as I read through them and document as much of the important content as I can;
+* I keep only the best stuff, either in the *WikiWalks* file, or in files with the names of the *Articles* I find of greatest import and interest;
+* Here is the *Thing*: As I *Save-and-Collapse* the 30-50 tabs, the log happens to have many DUPLICATES, but that's actually a __GREAT THING__ because, as I have also stated, I put a timestamp every time I post the URLs/hyperlinks, so I can recreate the entire experience of browsing the web as I do, in the manner I call *Manual Webcrawling*;
+* That is to say, the duplicates are fine, they just show which websites have most interest, are most relevant;
+* Documents that show up the most in the logfile are the most pertinent, I gather;
+* Everything is continuously being *dumped* into cloud storage facilities as well as on my external drives (sometimes in different locations on planet earth) as well as in the *Github Gists* that I start every new year;
+* I've been doing one variation or another on this technique/methodology for at least 14 years;
+* So far as I have said, once again, I haven't lost a single document or resource;
+* And so this is the *Refinement Process*, as it now stands, or part of it;
+* The rest includes: *Photo-Adventures* and *Audio Adventures* where I collect data *in-the-field*, which I transform into art *in the studio/laboratory, called __THE HISTORIOTHEQUE_, which houses both an __ARCHIVE__ of my personal documentary heritage since about 1994, and __THE ART OPERATION_, as well as its __CONTROL CENTER__;
 * [...]
 
 __A.G. (c) 2023. All Rights Reserved__
