@@ -29,5 +29,10 @@ Here is a new process which I use to consolidate my memory, which aids me in so 
 * This is how *Knowledge* is created in the brain, by constantly reviewing, restating, putting into your own words, etc., of things you read, and re-reading and returning to them time and time again;
 * You don't need to read 10,000 books in your lifetime; just find a few dozen *Reference Materials* and keep returning to them over time;
 * If you have chosen a good book as reference material, it will last you a lifetime; but do choose a good book each time, one whose author has proven some form of *Genius*; do not read books by mediocre authors;
+* I forgot to mention it, but I *timestamp* every *entry* in my __*NOTES*__ file and other .txt files;
+* It's important to know when something was recorded or accessed for the first time; this forms an important and integral part of the *Documentation Process*;
+* That way I can *Reconstruct* any sequence of events in the *Record*, which form part of my *Personal Archives*;
+* As I said, I try to keep all *Documentation* online in repositories on GitHub, or written-up in blog posts on Medium and other sites;
+* That way I not only have repeated things once more, but I am keeping a running record of things *on the Web* so that I can easily share any part of my process, my projects, work, work methods, documentation, etc., with a wider audience;
 
 __A.G. (c) 2023. All Rights Reserved__
