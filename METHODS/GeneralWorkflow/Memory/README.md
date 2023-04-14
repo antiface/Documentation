@@ -35,4 +35,15 @@ Here is a new process which I use to consolidate my memory, which aids me in so 
 * As I said, I try to keep all *Documentation* online in repositories on GitHub, or written-up in blog posts on Medium and other sites;
 * That way I not only have repeated things once more, but I am keeping a running record of things *on the Web* so that I can easily share any part of my process, my projects, work, work methods, documentation, etc., with a wider audience;
 
+# Citations
+
+* There's also something to be said about *Copying* citations from *Reference Works* __by hand__; Walter Benjamin wrote about this;
+* Something goes on in the brain, between the hand copying and the brain registering, that is a *different form of reading*;
+* It seems to be deeper than *mere surface reading*; it gets more deeply embedded in the brain somehow;
+* Then copying handwritten notes onto the computer just consolidates the process even more; a great process of *Integration* takes place;
+* I also use the *Zotero app* to keep references of web resources or documents I read online, whether they are web pages or other sorts of documents;
+* I think it's truly important to keep good citations handy; you never know when you're going to need them;
+* And good citations are always good to revisit and re-read, as that consolidates and integrates the *Knowledge* further;
+* This is how I do research, in part, in my __*Interdisciplinary Art-Research Practice*__;
+
 __A.G. (c) 2023. All Rights Reserved__
