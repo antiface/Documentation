@@ -45,5 +45,6 @@ Here is a new process which I use to consolidate my memory, which aids me in so 
 * I think it's truly important to keep good citations handy; you never know when you're going to need them;
 * And good citations are always good to revisit and re-read, as that consolidates and integrates the *Knowledge* further;
 * This is how I do research, in part, in my __*Interdisciplinary Art-Research Practice*__;
+* [...]
 
 __A.G. (c) 2023. All Rights Reserved__
