@@ -25,5 +25,9 @@ Here is a new process which I use to consolidate my memory, which aids me in so 
 * Making citations *by hand* of things I read and re-read helps me consolidate and __*integrate*__ the content;
 * For instance, I have been going through my extensive library of books and re-reading all of my favorite passages, and making *Citations* of the very best content;
 * I then *Review* it in my mind, then re-read my citations/notes, then *Copy* it onto the computer in my *running .txt files*, the list of things I do goes on;
+* My *Understanding* of the reference materials (__*"#REFMATS"*__) that I keep returning to over the years has improved; the content has become more and more *Integrated* into my own *Body of Knowledge*;
+* This is how *Knowledge* is created in the brain, by constantly reviewing, restating, putting into your own words, etc., of things you read, and re-reading and returning to them time and time again;
+* You don't need to read 10,000 books in your lifetime; just find a few dozen *Reference Materials* and keep returning to them over time;
+* If you have chosen a good book as reference material, it will last you a lifetime; but do choose a good book each time, one whose author has proven some form of *Genius*; do not read books by mediocre authors;
 
 __A.G. (c) 2023. All Rights Reserved__
