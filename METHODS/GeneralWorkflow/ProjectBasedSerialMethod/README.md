@@ -5,7 +5,7 @@
 * First Experiment: Perform a first experiment in the first series;
 * Continue the series until completion of the project;
 * Create subseries, or __*series-within-series*__;
-* At each time step in each series or subseries, mutate the production and terminate the process when the painting has achieved a certain *fitness*;
+* At each time step in each series or subseries, modulate (mutate) the production and terminate the process when a given painting has achieved a certain *fitness*;
 
 ![GENETIC ALGORITHM FLOWCHART](https://historiotheque.files.wordpress.com/2023/08/genetic_algorithm_flowchart_resize.png)
 
