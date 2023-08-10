@@ -7,4 +7,16 @@
 
 ![GENETIC ALGORITHM FLOWCHART](https://historiotheque.files.wordpress.com/2023/08/genetic_algorithm_flowchart_resize.png)
 
+* PROJECT;
+  * COLLECT DATA;
+  * SERIES;
+    * EXPERIMENT 1;
+    * EXPERIMENT 2;
+    * EXPERIMENT N;
+  * DOCUMENTATION;
+  * COMPILING;
+  * PUBLISHING;
+  * RECEPTION HISTORY/FEEDBACK;
+  * ...
+ 
 [A.G. (c) 2023. ![A.G. (c) 2023. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
