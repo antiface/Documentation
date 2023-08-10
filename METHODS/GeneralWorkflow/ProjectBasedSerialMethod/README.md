@@ -5,4 +5,5 @@
 * Continue the series until completion of the project;
 * Create subseries, or __*series-within-series*__;
 
+![GENETIC ALGORITHM FLOWCHART](blob:https://wordpress.com/c9f37f7f-d5c5-45ea-9f98-4f714378ad41)
 [A.G. (c) 2023. ![A.G. (c) 2023. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
