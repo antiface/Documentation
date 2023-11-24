@@ -28,3 +28,13 @@ In any case, I often tell people that my interdisciplinary art and research prac
 * To give you an idea of what my various logging and related activities might look like on my computer, on the Desktop, here is what a folder/directory structure might look like. This isn't what I am using, it's just an example of a "Schema" I might use, to illustrate how everything that is important to me, and important enough to LOG, effectively gets LOGGED in various places in the directories. And so, for example, we might have:
 
 ![Sample Directory Structure](https://historiotheque.files.wordpress.com/2016/01/sampledirectorystructure_version_2016_28nov15a.jpg)
+
+### IMPORTANT UPDATE TO GENERAL WORKFLOW: November 24th, 2023
+* I start the day with prayer and meditation, contemplation, and __edifying readings__ (TIME: up to 1-2 hours);
+* I check for important messages I may need to respond to today (TIME: 15-20 minutes);
+* Morning Constitutional: A walk and/or breakfast and self-care (TIME: 1 hour);
+* Philosophical readings (TIME: 1-2 hours);
+* Check previous posting online (15-20 minutes);
+* Open up the **WORKSPACE** mostly the way it was when you last left it (2-3 minutes);
+* Begin artistic work (TIME: 8-10 hours, with a 15-20 minute break for lunch, plus breaks every 15 to 30-45 minutes for prayer, meditation, contemplation, edifying readings, walk around the block, a quick run to the cornerstore, or excercise, stretching, The Feldenkrais Method, or Taiji Qigong);
+* [...]
