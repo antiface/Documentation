@@ -1,6 +1,7 @@
 ### Documentation / OFFICIAL_DECLARATIONS
 * [The Perfect Workspace: Artist Ideas for Common Nonsense](https://medium.com/the-painters-almanach/the-perfect-workspace-dce2d3314d7c)
 * [Golden Autumns of Anchorite Hearts: Exposition of the Almanach system](https://medium.com/the-painters-almanach/golden-autumns-of-anchorite-hearts-96cae8ea62f6)
+* [Spring of The Thawing Lakes: Came out of the woods early to see the River Flow.](https://medium.com/the-painters-almanach/spring-of-the-thawing-lakes-791102b8c90b)
 * [Introducting The Archives-Painting](https://medium.com/the-painters-almanach/introducing-the-archive-painting-a313f08e173)
 * [Entering The Historiothèque](https://medium.com/the-painters-almanach/entering-the-historiothèque-fe57dcdf64dc)
 * [Official Declaration of Production-Year, 2017-2018](https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2017-2018-1cc81705450b)
