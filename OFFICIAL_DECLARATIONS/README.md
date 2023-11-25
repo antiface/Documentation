@@ -5,6 +5,8 @@
 * [Official Declaration of Production-Year, 2020-2021](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2020-2021-9a1a0b1ed728)
 * [Official Declaration of Production-Year, 2021-2022](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2021-2022-626e41b9e28f)
 * [Official Declaration of Production-Year, 2022-2023](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2022-2023-cc4002ed88c)
+* [Official Declaration of Production-Year 2023–2024](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2023-2024-e136153b27ee)
+* [Official Declaration of Production-Year 2024–2025](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2024-2025-409de041379)
 * [Introducting The Archives-Painting](https://medium.com/the-painters-almanach/introducing-the-archive-painting-a313f08e173)
 * [Entering The Historiothèque](https://medium.com/the-painters-almanach/entering-the-historiothèque-fe57dcdf64dc)
 * [Golden Autumns of Anchorite Hearts: Exposition of the Almanach system](https://medium.com/the-painters-almanach/golden-autumns-of-anchorite-hearts-96cae8ea62f6)
