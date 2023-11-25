@@ -29,12 +29,21 @@ In any case, I often tell people that my interdisciplinary art and research prac
 
 ![Sample Directory Structure](https://historiotheque.files.wordpress.com/2016/01/sampledirectorystructure_version_2016_28nov15a.jpg)
 
-### IMPORTANT UPDATE TO GENERAL WORKFLOW: November 24th, 2023
-* I start the day with prayer and meditation, contemplation, and __edifying readings__ (TIME: up to 1-2 hours);
+### IMPORTANT UPDATE TO GENERAL WORKFLOW:
+
+November 24th, 2023
+* I start the day with prayer and meditation, contemplation, and __Edifying Readings__ (TIME: up to 1-2 hours);
 * I check for important messages I may need to respond to today (TIME: 15-20 minutes);
 * Morning Constitutional: A walk and/or breakfast and self-care (TIME: 1 hour);
 * Philosophical readings (TIME: 1-2 hours);
 * Check previous posting online (15-20 minutes);
-* Open up the **WORKSPACE** mostly the way it was when you last left it (2-3 minutes);
+* Open up the [**WORKSPACE**](https://medium.com/design-science/workspace-906aded7edb2) mostly the way it was when you last left it (2-3 minutes);
 * Begin artistic work (TIME: 8-10 hours, with a 15-20 minute break for lunch, plus breaks every 15 to 30-45 minutes for prayer, meditation, contemplation, edifying readings, walk around the block, a quick run to the cornerstore, or excercise, stretching, The Feldenkrais Method, or Taiji Qigong);
+
+November 25th, 2023
+* I keep __LOGS__ of *EVERY WEBSITE* I ever visit; I scan and navigate the web, open up new tabs, and once I hit more than 20 tabs or say, or I want to *Close The Workspace* for the time being, or because I am *Closing The Computer* to leave the house to go on a walk or some appointment or social activity, I *__COLLAPSE ALL TABS DOWN TO NOTHING AND CLOSE THE BROWSER__*;
+* I learned that it's important to *__BUILD UP A WORKSPACE + A WORK SESSION__* and then to learn to *__BREAK IT ALL DOWN__*;
+* I see is as a [__BABEL UP / BABEL DOWN__](https://medium.com/the-painters-almanach/the-tower-of-incompleteness-and-incomprehension-bc804a449845) process, or raising up BABEL from the ground up and then having it be DESTROYED (by the Hand of History Herself);
+* I am engaged in *Continuous, Rigorous, Comprehensive Documentation Practices*;
+* I am building up the new [__HISTORIOTHEQUE__](https://historiotheque.ca/) website;
 * [...]
