@@ -44,6 +44,11 @@ November 25th, 2023
 * I keep __LOGS__ of *EVERY WEBSITE* I ever visit; I scan and navigate the web, open up new tabs, and once I hit more than 20 tabs or say, or I want to *Close The Workspace* for the time being, or because I am *Closing The Computer* to leave the house to go on a walk or some appointment or social activity, I *__COLLAPSE ALL TABS DOWN TO NOTHING AND CLOSE THE BROWSER__*;
 * I learned that it's important to *__BUILD UP A WORKSPACE + A WORK SESSION__* and then to learn to *__BREAK IT ALL DOWN__*;
 * I see is as a [__BABEL UP / BABEL DOWN__](https://medium.com/the-painters-almanach/the-tower-of-incompleteness-and-incomprehension-bc804a449845) process, or raising up BABEL from the ground up and then having it be DESTROYED (by the Hand of History Herself);
-* I am engaged in *Continuous, Rigorous, Comprehensive Documentation Practices*;
-* I am building up the new [__HISTORIOTHEQUE__](https://historiotheque.ca/) website;
+* *Also*, the more one gets used to "closing down" the workspace after every __*WORK SESSION*__, the better one's memory gets of what the previous *Configuration* was of the *Virtual Workspace*;
+* For that's what is truly risky for *Losing Operational Continuity* => If your *Workspace Configurations Get Lost*; you need a way to be able to __*RESTORE*__ them;
+* I am also engaged in *Continuous, Rigorous, Comprehensive Documentation Practices*;
+* That is to say, alongside the constant *Saving of Complete, Visited Tab-Sets*, I document __ALL__ of my other practices;
+* Either I post stuff about *Project*, *Series*, *Collection*, the entire *Practice Itself*, or any part of any of the above, __*ON MY VARIOUS GITHUB REPOSITORIES*__ or else I post *Write-Ups* on Medium or Substack or else Tweet out various things like *Pictures of my Workspace*, *Scans of Actual Refcards*, etc.;
+* I am building up the new [__HISTORIOTHEQUE__](https://historiotheque.ca/) website and realizing that __*I AM ALSO A HISTORIOTHEQUE!*__;
+* My dream of the *Mobile Recording Studio* has become a reality, with my *Smart Phone*;
 * [...]
