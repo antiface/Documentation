@@ -64,4 +64,5 @@ November 26th, 2023
 * The *Art Operation @ The Historiotheque* also gets __*built up then torn down*__, and each new __*version*__ gets its own __*semantic version*__ and __OFFICIAL RELEASE__ (we are currently on Official Release v.3.0.4.; SEE: [Relaunch and Subsequent Closing Down of The Historiotheque Semantic Version 3.0.4.](https://medium.com/historiotheque/relaunch-and-subsequent-closing-down-of-the-historiotheque-semantic-version-3-0-4-94714c1d73b5);
 * Lately, I've also been adding a little bit when I can to my [__*Art-Ops-In-A-Box GitHub Repository v.1.0.2.*__](https://github.com/antiface/ArtOpsInABox/tree/ArtOpsInABox-v.1.0.2);
 * ![ART-OPS-IN-A-BOX MANUAL - "OPEN THE BOX" SCHEMA](https://historiotheque.files.wordpress.com/2023/11/screenshot-from-2023-11-26-05-19-08.png)
+* I did a *Write-Up* on the __*Art-Ops-In-A-Box Concept*__ on Medium (SEE: [Art-Ops-in-a-Box: Cultural Innovation Saves Lives](https://medium.com/the-painters-almanach/art-ops-in-a-box-cultural-innovation-saves-lives-991ba30ff4e6));
 * [...]
