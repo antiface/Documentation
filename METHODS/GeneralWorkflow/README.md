@@ -51,4 +51,17 @@ November 25th, 2023
 * Either I post stuff about *Project*, *Series*, *Collection*, the entire *Practice Itself*, or any part of any of the above, __*ON MY VARIOUS GITHUB REPOSITORIES*__ or else I post *Write-Ups* on Medium or Substack or else Tweet out various things like *Pictures of my Workspace*, *Scans of Actual Refcards*, etc.;
 * I am building up the new [__HISTORIOTHEQUE__](https://historiotheque.ca/) website and realizing that __*I AM ALSO A HISTORIOTHEQUE!*__;
 * My dream of the *Mobile Recording Studio* has become a reality, with my *Smart Phone*;
+
+November 26th, 2023
+* After __*WORKING IN THE ARCHIVES*__ at partially *Dismantling* them, that is, reducing it to its bare minimum so it still retains maximal value while minimizing size and complexity (reduction of complexity through proper classification and tagging, documentation, etc.), and __*AFTER*__ I have worked out in the field to collect data and have brought it back into the *Laboratory* ("__THE HISTORIOTHEQUE__"), I start publishing the *Documentation* AND publishing my *high-quality content*;
+* *I cross-post on at least 12 different platforms or sites*; it doesn't take that long, I have a *streamlined workflow management methodology* the __*AG METHOD*__, also known as __*ALX*__;
+* Each platform or site has its own unique audience, with some necessary overlap; but I adapt the content to each of the sites/platforms;
+* I don't just publish __EVERYTHING EVERYWHERE_ because *"Everywhere means nowhere"* ([*Moral letters to Lucilius by Seneca: Letter 2. On discursiveness in reading*](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2));
+* I write *Write-Ups* on Medium which I often cross-post on Substack; I share those on Threads or on Twitter or both, sometimes also cross-posted on my Facebook profile AND/OR my professional Facebook Page;
+* I *Lifelog* on Threads, because it's a high-velocity platform where you can post multiple times per day and it's actually good for *Engagement*;
+* I spend a little time a few times a day *Reading* other people's posts mainly on Threads, *Liking* and *Commenting* and otherwise *Interacting* with others;
+* I *Clean Up* around the house, which houses [__*THE HISTORIOTHEQUE*__](https://historiotheque.ca/); you've got to keep things clean;
+* The *Art Operation @ The Historiotheque* also gets __*built up then torn down*__, and each new __*version*__ gets its own __*semantic version*__ and __OFFICIAL RELEASE__ (we are currently on Official Release v.3.0.4.; SEE: [Relaunch and Subsequent Closing Down of The Historiotheque Semantic Version 3.0.4.](https://medium.com/historiotheque/relaunch-and-subsequent-closing-down-of-the-historiotheque-semantic-version-3-0-4-94714c1d73b5);
+* Lately, I've also been adding a little bit when I can to my [__*Art-Ops-In-A-Box GitHub Repository v.1.0.2.*__](https://github.com/antiface/ArtOpsInABox/tree/ArtOpsInABox-v.1.0.2);
+* ![ART-OPS-IN-A-BOX MANUAL - "OPEN THE BOX" SCHEMA](https://historiotheque.files.wordpress.com/2023/11/screenshot-from-2023-11-26-05-19-08.png)
 * [...]
