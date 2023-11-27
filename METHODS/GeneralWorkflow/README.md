@@ -70,4 +70,7 @@ November 26th, 2023
 * I also have a __*LOG_2023*__ file where, as before and as always, I keep a log of all the __*Tab-Sets*__, documenting *EVERY* website that I visit on the web, for purposes of leaving an __*audit trail*__ of every website I visit, for purposes of upholding the *Civic Virtues of Integrity, Transparency, Responsibility, Truth and Accountability, and Others*;
 * Leaving the __*audit trail*__ is extremely important, it's so I can work __IN THE LIGHT__ as opposed to working in __DARKNESS__;
 * Working __IN THE DARK__ can arouse *SUSPICION* about my behaviors; people might think I engage in secrecy, in magical behavior, or am a mystic or even an *Opus Dei member* or *Freemason*, and I represent none of those things, am just the *Chief Art Operator @ The Historiotheque* engaged in a *rigorous, comprehensive, experimental design workflow management methodology called the __AG METHOD__ or [__ALX__](https://github.com/antiface/ALX);
+
+November 27th, 2023
+* I also do a great deal of *Reading* and have my very own, unique *Methodology*;
 * [...]
