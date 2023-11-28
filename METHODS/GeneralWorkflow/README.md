@@ -74,7 +74,7 @@ November 26th, 2023
 November 28th, 2023
 * I also do a great deal of *Reading* and have my very own, unique *Methodology*;
 * I have a unique *Method of Reading*; I can be reading up to 30 different books at any given time;
-* If you take the last 10-20 years, then technically, I`m still in the process of finishing over 100 separate books;
+* If you take the last 10-20 years, then technically, I'm still in the process of finishing over 100 separate books;
 * I have often been told to read only __ONE BOOK AT A TIME__, but that's just not how I operate;
 * Before she died - God rest her soul! - my mom asked me once how I was able to read so many books at once, how I could possibly __KNOW WHERE I AM SITUATED__ in all those books;
 * It's simple, I have a *Prodigious Memory*, first of all, and *Fantastically Great Capacity for Making and Presreving/Maintaining Deep Abstractions*;
@@ -87,5 +87,6 @@ November 28th, 2023
    * Once I've read the *Back Cover*, I start to read the *Introduction*;
       * I go *paragraph-by-paragraph*, taking written notes as well as audio notes __OF MY CURRENT UNDERSTANDING__;
       * I read books for __UNDERSTANDING__, no other reason, so I will usually only read a few paragraphs at any given time, what would fit on what I like to call a __REFCARD__, which is an index card with concepts on it, specific yet brief *theoretical understandings*;
-         * You can fit about one paragraph or a snippet from a paragraph onto one *Refcard*, so you can create __citation networks__ across any given __Card-Set__ or __Card-box__
+         * You can fit about one paragraph or a snippet from a paragraph onto one *Refcard*, so you can create __citation networks__ across any given __Card-Set__ or __Card-box__;
+   * I search through my *Archive of Notes* on the subject, trying to find specific concepts I've taken notes or written about, the __DEEPEN MY UNDERSTANDING__;
 * [...]
