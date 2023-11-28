@@ -89,4 +89,6 @@ November 28th, 2023
       * I read books for __UNDERSTANDING__, no other reason, so I will usually only read a few paragraphs at any given time, what would fit on what I like to call a __REFCARD__, which is an index card with concepts on it, specific yet brief *theoretical understandings*;
          * You can fit about one paragraph or a snippet from a paragraph onto one *Refcard*, so you can create __citation networks__ across any given __Card-Set__ or __Card-box__;
    * I search through my *Archive of Notes* on the subject, trying to find specific concepts I've taken notes or written about, the __DEEPEN MY UNDERSTANDING__;
+* I try to take notes on various different __*substrates*__, different types of media located in different places;
+* This is based on the __*principle of redundancy*__, on how it is useful in the case of tragedy and can help prevent errors;
 * [...]
