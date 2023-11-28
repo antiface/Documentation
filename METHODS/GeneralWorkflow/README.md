@@ -71,6 +71,21 @@ November 26th, 2023
 * Leaving the __*audit trail*__ is extremely important, it's so I can work __IN THE LIGHT__ as opposed to working in __DARKNESS__;
 * Working __IN THE DARK__ can arouse *SUSPICION* about my behaviors; people might think I engage in secrecy, in magical behavior, or am a mystic or even an *Opus Dei member* or *Freemason*, and I represent none of those things, am just the *Chief Art Operator @ The Historiotheque* engaged in a *rigorous, comprehensive, experimental design workflow management methodology called the __AG METHOD__ or [__ALX__](https://github.com/antiface/ALX);
 
-November 27th, 2023
+November 28th, 2023
 * I also do a great deal of *Reading* and have my very own, unique *Methodology*;
+* I have a unique *Method of Reading*; I can be reading up to 30 different books at any given time;
+* If you take the last 10-20 years, then technically, I`m still in the process of finishing over 100 separate books;
+* I have often been told to read only __ONE BOOK AT A TIME__, but that's just not how I operate;
+* Before she died - God rest her soul! - my mom asked me once how I was able to read so many books at once, how I could possibly __KNOW WHERE I AM SITUATED__ in all those books;
+* It's simple, I have a *Prodigious Memory*, first of all, and *Fantastically Great Capacity for Making and Presreving/Maintaining Deep Abstractions*;
+* Here is the *Method* as it stands now;
+   * Take out several pertinent books from the library, books that pertain specifically to what I am in the *Process of Understanding*;
+   * Firstly, I follow my *Intuition*, not what is *Relevant to the Times*;
+   * So I take out books from the library PLUS I take out all the books I want to read from my personal *Collection*;
+   * I end up with about 20-30 books on the table, and I take them one by one, inspect them, look at the *Tables of Contents*, read the *Back Cover*;
+   * I actually start with the __*COVERS*__; Whoever said a book can't be judged by its cover, never read books for *True Understanding*, because the covers give you a precise introduction to the subject matter and information about the author and who they were published by, where, and when, with cover art on top of that; it's the perfect tool for *Understanding the Precise Context and Relavance* of any given book for any given situation when you might need it;
+   * Once I've read the *Back Cover*, I start to read the *Introduction*;
+      * I go *paragraph-by-paragraph*, taking written notes as well as audio notes __OF MY CURRENT UNDERSTANDING__;
+      * I read books for __UNDERSTANDING__, no other reason, so I will usually only read a few paragraphs at any given time, what would fit on what I like to call a __REFCARD__, which is an index card with concepts on it, specific yet brief *theoretical understandings*;
+         * You can fit about one paragraph or a snippet from a paragraph onto one *Refcard*, so you can create __citation networks__ across any given __Card-Set__ or __Card-box__
 * [...]
