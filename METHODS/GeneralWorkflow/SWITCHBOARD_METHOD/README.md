@@ -18,4 +18,5 @@ __*The Switchboard Method:*__
 * The other person might finish their 1 novel in __*x amount of time*__;
 * You will finish in __*x+y amount of time*__, __*y*__ being a constant;
 * It will take you a little more time to write 12 novels across 12 notebooks instead of 1 across 1, but at the end of _*x+y time*__, you will have written __12 NOVELS INSTEAD OF 1__;
+* The __SWITCHBOARD METHOD__ is essentially a __*NON-LINEAR METHOD OF WORK ORGANIZATION*__ and can provide *Great Efficiencies in Time* (awaiting *mathematical proof*);
 * [...]
