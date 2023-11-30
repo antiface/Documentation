@@ -28,7 +28,7 @@ __*The Switchboard Method:*__
 * You would normally look at costs and so forth, cost functions, etc.;
 * Thats not my problem, though; I got rid of the decision problem and saved at least __1 bit__;
 * It might not seem like a lot, yet computationally, with over __100 projects__ still actively running in my *Art Operation*, I needed to save *as many bits as possible*;
-* I don't *decide* what task to work on; I tackle whatever is most __proximate/immediate/ready-and-near-at-hand__;
+* I don't *decide* what task to work on; I tackle whatever is most __proximate/immediate/ready-to-hand__;
 * It doesn't matter what it is,it will absolutely be an __enriching,learning experience__;
 * Randomized task assignment just seems optimal to me; I'm able to maintain over 100 complex,interdisciplinary art-research projects, and I'm a __*One-Man Shop*__, a single art operator at the __*Art Operation @ The Historiotheque*__;
 * More on this later; this is based on the research for a new project, and series of series, I started earlier in the year,called __*NOISE IN THE WORKSPACE*__;
