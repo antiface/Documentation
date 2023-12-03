@@ -91,4 +91,16 @@ November 28th, 2023
    * I search through my *Archive of Notes* on the subject, trying to find specific concepts I've taken notes or written about, the __DEEPEN MY UNDERSTANDING__;
 * I try to take notes on various different __*substrates*__, different types of media located in different places;
 * This is based on the __*principle of redundancy*__, on how it is useful in the case of tragedy and can help prevent errors;
+
+December 3rd, 2023
+* *More About My Reading Method*: As I mentioned above, I work with upwards of 20 to 30 books __*all at once*__;
+* What I do is follow what I call a *Voyage of Speculation* made up of *Theoretical Scan-Paths*;
+* That is to say, I take one book which is proximate and read a paragaph or two;
+* Then I reflect on it for maybe 5-10 minutes, making sure I truly __ASSIMILATE__ the content I have just read;
+* Sometimes it can take hours or days, even weeks, months, and years;
+* I don't *advance* in any given book unless I've __totally understood__ what I am reading;
+* This can literally take decades, *To Form a Proper Understanding of What I Read*, but it is the __ONLY WAY__ that I know of, of reading;
+* Then, when I'm reading a given paragraph or two, I get *instant insight or inspiration*, which often leads me to a __*SPECIFIC REFERENCE*__ in another book;
+* I take out the *Other Book* and read the relevant passages, the ones that relate to the first book;
+* Then I *Move Diagonally* one could say, __ACROSS BOOKS__, *From Reference to Reference and Back to the Original (Source) Materials*;
 * [...]
