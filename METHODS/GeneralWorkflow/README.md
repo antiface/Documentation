@@ -97,10 +97,15 @@ December 3rd, 2023
 * What I do is follow what I call a *Voyage of Speculation* made up of *Theoretical Scan-Paths*;
 * That is to say, I take one book which is proximate and read a paragaph or two;
 * Then I reflect on it for maybe 5-10 minutes, making sure I truly __ASSIMILATE__ the content I have just read;
-* Sometimes it can take hours or days, even weeks, months, and years;
+* Sometimes it can take hours or days, even weeks, months, and years of *Reflection*;
 * I don't *advance* in any given book unless I've __totally understood__ what I am reading;
 * This can literally take decades, *To Form a Proper Understanding of What I Read*, but it is the __ONLY WAY__ that I know of, of reading;
 * Then, when I'm reading a given paragraph or two, I get *instant insight or inspiration*, which often leads me to a __*SPECIFIC REFERENCE*__ in another book;
 * I take out the *Other Book* and read the relevant passages, the ones that relate to the first book;
 * Then I *Move Diagonally* one could say, __ACROSS BOOKS__, *From Reference to Reference and Back to the Original (Source) Materials*;
+* I also take ample notes and log and document the processes;
+* I collect my notes, working *In The Archive*, reviewing past notes, documentation, and logs that I've taken in the past on the given subject;
+* This pushes me to *Make Discoveries* or have *Breakthroughs*, which lead to new books and new *Systems of References*, which I define as a __CARDBOX__;
+* That is to say, the given *Thought* or *Series of Concepts* that I am working on at any given time through my *Understanding Process*, I call those __REFCARDS__ because often I literally write out my *Thoughts & Understandings* on actual *index cards* which I organize into *cardboxes*;
+* The __CARDBOX_ then, is made up of *networks of thoughts*, of interconnected/interconnecting and interpenetrating *Concepts*;
 * [...]
