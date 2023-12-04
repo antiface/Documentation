@@ -12,7 +12,7 @@ __*The Switchboard Method:*__
 * Choose whatever tasks is most relevant to the given time;
 * Choose tasks that are more __*ready-to-hand*__ either physically *proximate* or else *close* to you in your *cognitive space*, *emotional space*, your __*Fields of Experience*__ or __*Fields of Discourse*__;
 * Act as though you were a __MECHANICAL TURK__ at Amazon;
-* You will achieve most efficiency this way;
+* You will achieve more efficiency this way;
 * Take an example. Say someone writes 1 novel in 1 notebook;
 * Now you write 12 novels in 12 notebooks, except you use the __SWITCHBOARD METHOD__;
 * The other person might finish their 1 novel in __*x amount of time*__;
