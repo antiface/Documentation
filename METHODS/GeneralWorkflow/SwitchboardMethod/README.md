@@ -43,4 +43,19 @@ __*The Switchboard Method:*__
 * One does not spend any significant amount of times either *Deciding* what tasks to tackle __OR__ any significant amount of time *building up complex mental abstractions*, which software developers often have to do in the course of any given period of __*Deep Work*__;
 * I merely look at the *Surface of the Workspace* and choose what is most *proximate/immediate*;
 * This *literally* means looking around the __*Studio Space @ The Historiotheque*__ and choosing whatever is *nearest in time and space*;
+* I realize that the *3D Surface of the Workspace* is where I get most of my new ideas, from actually *working in the Historioteque AND in the Archive*;
+* It's where I came up with the concept of *Geogrammar or Geogrammatical Forms*, as __*floating land-masses*__, as portrayed in my novelistic phenomenology __*The History-Project*__ as __*Crackland, the Land of Fissures*__ and as __*Antiface-Cloud*__ in my sequel __*The Archives-Project*__;
+* The so-called *land-masses* or *fragments* are really the __*exposed surfaces of the Stacks*__ (SEE: *The Stacks Project*);
 * [...]
+
+![DELTA WORKSPACE](https://historiotheque.files.wordpress.com/2023/12/delta_workspace_accessed_04dec23a-16h38a_600px_450px.png)
+
+![THE SWITCHBOARD METHOD](https://historiotheque.files.wordpress.com/2023/12/the_switchboard_method_accessed_04dec23a-16h47a_600px_wide.png)
+
+![THE STACKS-PROJECT](https://historiotheque.files.wordpress.com/2023/12/the_stacks_project_accessed_04dec23a-16h48b_600px_wide.png)
+
+- - - - - - - - - -
+
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
+
+[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
