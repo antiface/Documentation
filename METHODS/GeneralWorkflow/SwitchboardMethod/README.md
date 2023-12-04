@@ -46,6 +46,9 @@ __*The Switchboard Method:*__
 * I realize that the *3D Surface of the Workspace* is where I get most of my new ideas, from actually *working in the Historioteque AND in the Archive*;
 * It's where I came up with the concept of *Geogrammar or Geogrammatical Forms*, as __*floating land-masses*__, as portrayed in my novelistic phenomenology __*The History-Project*__ as __*Crackland, the Land of Fissures*__ and as __*Antiface-Cloud*__ in my sequel __*The Archives-Project*__;
 * The so-called *land-masses* or *fragments* are really the __*exposed surfaces of the Stacks*__ (SEE: *The Stacks Project*);
+* Each of these "Stacks" are *built-up* over time as *sedimentary layers or through a sedimentation process*;
+* I continuously *Survey* the top-post surfaces of these many *Stacks* and make *mental links* or __*REFCARDS*__ which I file in my *Inner Refcards-System*, my __*DATABASE-OF-IMAGES*__ (SEE: *Database Arts*);
+* SEE: Images below, of the *3D Workspace as Abstract Cartography* (seen from above) and two diagrams of __*THE SWITCHBOARD METHOD*__ as well as one for *The Stacks-Project*;
 * [...]
 
 ![DELTA WORKSPACE](https://historiotheque.files.wordpress.com/2023/12/delta_workspace_accessed_04dec23a-16h38a_600px_450px.png)
