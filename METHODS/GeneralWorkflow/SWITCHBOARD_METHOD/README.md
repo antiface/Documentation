@@ -35,6 +35,8 @@ __*The Switchboard Method:*__
 * The first series was called __*SPACE NOISE INJECTION*__ and, you see, while the first series is still only beginning, I started the second series of experiments, called __*RANDOMIZED EXPERIMENTAL PARAMETERS*__;
 * After just a few months, I have enough research and experimental data to write a PhD thesis in __interruption science__;
 
+![WORKSPACE](https://historiotheque.files.wordpress.com/2017/03/historiotope_gif6.gif)
+
 *2023-12-04 03:17:26*
 * One of the ways this *Method* works is by removing *waiting-times*;
 * One does not spend any significant amount of times either *Deciding* what tasks to tackle __OR__ any significant amount of time *building up complex mental abstractions*, which software developers often have to do in the course of any given period of __*Deep Work*__;
