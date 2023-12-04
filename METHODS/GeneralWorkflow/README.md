@@ -107,5 +107,5 @@ December 3rd, 2023
 * I collect my notes, working *In The Archive*, reviewing past notes, documentation, and logs that I've taken in the past on the given subject;
 * This pushes me to *Make Discoveries* or have *Breakthroughs*, which lead to new books and new *Systems of References*, which I define as a __CARDBOX__;
 * That is to say, the given *Thought* or *Series of Concepts* that I am working on at any given time through my *Understanding Process*, I call those __REFCARDS__ because often I literally write out my *Thoughts & Understandings* on actual *index cards* which I organize into *cardboxes*;
-* The __CARDBOX_ then, is made up of *networks of thoughts*, of interconnected/interconnecting and interpenetrating *Concepts*;
+* The __CARDBOX__ then, is made up of *networks of thoughts*, of interconnected/interconnecting and interpenetrating *Concepts*;
 * [...]
