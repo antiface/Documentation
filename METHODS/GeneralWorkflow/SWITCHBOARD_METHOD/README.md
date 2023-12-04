@@ -17,7 +17,7 @@ __*The Switchboard Method:*__
 * Now you write 12 novels in 12 notebooks, except you use the __SWITCHBOARD METHOD__;
 * The other person might finish their 1 novel in __*x amount of time*__;
 * You will finish in __*x+y amount of time*__, __*y*__ being a constant;
-* It will take you a little more time to write 12 novels across 12 notebooks instead of 1 across 1, but at the end of _*x+y time*__, you will have written __12 NOVELS INSTEAD OF 1__;
+* It will take you a little more time to write 12 novels across 12 notebooks instead of 1 across 1, but at the end of __*x+y time*__, you will have written __12 NOVELS INSTEAD OF 1__;
 * The __SWITCHBOARD METHOD__ is essentially a __*NON-LINEAR METHOD OF WORK ORGANIZATION*__ and can provide *Great Efficiencies in Time* (awaiting *mathematical proof*);
 
 *2023-11-29 19:45:22*
@@ -31,7 +31,7 @@ __*The Switchboard Method:*__
 * I don't *decide* what task to work on; I tackle whatever is most __proximate/immediate/ready-to-hand__;
 * It doesn't matter what it is,it will absolutely be an __enriching,learning experience__;
 * Randomized task assignment just seems optimal to me; I'm able to maintain over 100 complex,interdisciplinary art-research projects, and I'm a __*One-Man Shop*__, a single art operator at the __*Art Operation @ The Historiotheque*__;
-* More on this later; this is based on the research for a new project, and series of series, I started earlier in the year,called __*NOISE IN THE WORKSPACE*__;
+* More on this later; this is based on the research for a new project, and series of series, I started earlier in the year, called __*NOISE IN THE WORKSPACE*__;
 * The first series was called __*SPACE NOISE INJECTION*__ and, you see, while the first series is still only beginning, I started the second series of experiments, called __*RANDOMIZED EXPERIMENTAL PARAMETERS*__;
 * After just a few months, I have enough research and experimental data to write a PhD thesis in __interruption science__;
 * [...]
