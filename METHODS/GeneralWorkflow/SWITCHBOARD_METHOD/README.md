@@ -22,7 +22,7 @@ __*The Switchboard Method:*__
 
 *2023-11-29 19:45:22*
 
-* I am told this is the __*assignment problem*__ in theoretical computer science,but usually you have __n agents__ to whom you must assign __m number of tasks__;
+* I am told this is the __*assignment problem*__ in theoretical computer science, but usually you have __n agents__ to whom you must assign __m number of tasks__;
 * In my case, there are only __n tasks__ and __1 agent__;
 * All that's really important here is the decision problem and efficient allocation of resources;
 * You would normally look at costs and so forth, cost functions, etc.;
@@ -30,8 +30,12 @@ __*The Switchboard Method:*__
 * It might not seem like a lot, yet computationally, with over __100 projects__ still actively running in my *Art Operation*, I needed to save *as many bits as possible*;
 * I don't *decide* what task to work on; I tackle whatever is most __proximate/immediate/ready-to-hand__;
 * It doesn't matter what it is,it will absolutely be an __enriching,learning experience__;
-* Randomized task assignment just seems optimal to me; I'm able to maintain over 100 complex,interdisciplinary art-research projects, and I'm a __*One-Man Shop*__, a single art operator at the __*Art Operation @ The Historiotheque*__;
+* Randomized task assignment just seems optimal to me; I'm able to maintain over 100 complex, interdisciplinary art-research projects, and I'm a __*One-Man Shop*__, a single art operator at the __*Art Operation @ The Historiotheque*__;
 * More on this later; this is based on the research for a new project, and series of series, I started earlier in the year, called __*NOISE IN THE WORKSPACE*__;
 * The first series was called __*SPACE NOISE INJECTION*__ and, you see, while the first series is still only beginning, I started the second series of experiments, called __*RANDOMIZED EXPERIMENTAL PARAMETERS*__;
 * After just a few months, I have enough research and experimental data to write a PhD thesis in __interruption science__;
+
+*2023-12-04 03:17:26*
+* One of the ways this *Method* works is by removing *waiting-times*;
+* One does not spend any significant amount of times either *Deciding* what tasks to tackle __OR__ any significant amount of time *building up complex mental abstractions*, which software developers often have to do in the course of any given period of __*Deep Work*__;
 * [...]
