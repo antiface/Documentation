@@ -38,4 +38,6 @@ __*The Switchboard Method:*__
 *2023-12-04 03:17:26*
 * One of the ways this *Method* works is by removing *waiting-times*;
 * One does not spend any significant amount of times either *Deciding* what tasks to tackle __OR__ any significant amount of time *building up complex mental abstractions*, which software developers often have to do in the course of any given period of __*Deep Work*__;
+* I merely look at the *Surface of the Workspace* and choose what is most *proximate/immediate*;
+* This *literally* means looking around the __*Studio Space @ The Historiotheque*__ and choosing whatever is *nearest in time and space*;
 * [...]
