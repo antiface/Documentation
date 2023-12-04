@@ -109,3 +109,10 @@ December 3rd, 2023
 * That is to say, the given *Thought* or *Series of Concepts* that I am working on at any given time through my *Understanding Process*, I call those __REFCARDS__ because often I literally write out my *Thoughts & Understandings* on actual *index cards* which I organize into *cardboxes*;
 * The __CARDBOX__ then, is made up of *networks of thoughts*, of interconnected/interconnecting and interpenetrating *Concepts*;
 * [...]
+
+- - - - - - - - -
+
+### [BACK TO DOCUMENTATION / METHODS]([https://github.com/antiface/Documentation/tree/master/EXPERIMENTS](https://github.com/antiface/Documentation/tree/master/METHODS))
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
+
+A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/12/ag_signature_official_2017_50px_cropped_pink.jpg) All Rights Reserved.
