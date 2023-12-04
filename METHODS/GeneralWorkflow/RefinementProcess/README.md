@@ -75,4 +75,9 @@
 * That's it for now, the symbol below, i.e. __[...]__ is what I use to mean *"to be continued..."*
 * [...]
 
-__A.G. (c) 2023. All Rights Reserved__
+- - - - - - - - -
+
+### [BACK TO DOCUMENTATION / METHODS](https://github.com/antiface/Documentation/tree/master/EXPERIMENTS)
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
+
+A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/12/ag_signature_official_2017_50px_cropped_pink.jpg) All Rights Reserved.
