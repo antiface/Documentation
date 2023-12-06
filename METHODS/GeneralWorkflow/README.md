@@ -131,6 +131,7 @@ December 6th, 2023
 * That is, as I was saying, I merely take *whatever task is on the Surface or most immediate/proximate/ready-to-hand*;
 * There is no specific *Order* to the tasks, though, they are chosen *pseudo-randomly*, *pseudo-* because I'm still the *Art Operator* that is *choosing* them;
 * In essence, though, I took the *decision* out of the *decision process/problem*, i.e. the process is, for all intents and purposes, a __*decisionless process*__;
+* Technically speaking, if we are speaking of *binary choices between dichotomous options*, like choosing __*to work on x or NOT x*__, then by essentially making the *1-person and n tasks assignment problem* a __*decisionless process*__, I am at least saving __*1-bit of information per decision*__ I don't have to take;
 * [...]
 
 - - - - - - - - -
