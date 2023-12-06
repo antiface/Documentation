@@ -13,7 +13,7 @@
 * *Daypath files* for your daily work inspiration, work documentation, planning, etc.;
 * Then you can have another .txt file for *Reference Materials* or __*REFMATS*__;
 * Then you can __*STRUCTURE*__ your logfile's content in the *B:DRIVE* any way you like;
-* You can create new files, which we are calling __*REFCARDS*__ because this is essentially a design specification for __*THE REFCARDS-SYSTEM*__;
+* You can create new files, which we are calling __*REFCARDS*__ because this is essentially a design specification for [__*THE REFCARDS-SYSTEM*__](https://github.com/antiface/ArchivesProject/tree/master/Refcards);
 * You can get new *Views* in many different ways, *scanning and searching* through the __*LOGFILE*_ by different *orders*, temporal, alphabetical, conceptual, etc., *organizing it in different ways;
 * The system uses *machine learning to try to predict your future uses*, from using your past data as *training data*;
 * Then you *build up* these new structures in a *streamlined manner* using a form of __*SEDIMENTARY METHOD*__ of using different __*STACKS*__ (SEE: [*"The Stacks-Project"*](https://github.com/antiface/Documentation/tree/master/EXPERIMENTS/StacksProject));
