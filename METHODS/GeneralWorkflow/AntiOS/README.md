@@ -8,6 +8,10 @@
 * Then, as you work during your workday, you can create __*NEW FILES*__ such as what I call __*DAYPATH*__ files, which are all .txt files, lightweight and interoperable;
 * So you would be able to go through, *scanning* through the *Bin-Drive Main Log* and copy out sequences and different sections or segments of content, i.e. *Sublogs*, and save them in a new .txt file;
 * It's similar to what you could do with a *Relational Database* where you can create new *Tables* and *Relations*, or else different *Views* of content from the *Databse*, that you could then __*SAVE*__ in a new .txt file;
+* Basically, what you can do during the day is __*PARSE*__ through the __*LOGS*__ in the __*B:DRIVE*__;
+* You parse through it and create __*NEW .TXT FILES*__ accordingly;
+* *Daypath files* for your daily work inspiration, work documentation, planning, etc.;
+* Then you can have another .txt file for *Reference Materials* or __*REFMATS*__;
 * [...]
 
 - - - - - - - - -
