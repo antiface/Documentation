@@ -124,6 +124,9 @@ December 6th, 2023
 * In retrospect, then, I find that I work *relatively quickly*, or with *rapidity*, switching as I do constantly between *tasks/activities*;
 * I can never get *bored*, I always have some task I can take *from the surface*;
 * What I mean by this is that there is a __*3D surface*__ that is exposed to the air in *The Historiotheque* and when I *choose* new tasks, I just take whatever is most *immediate or ready-to-hand*, wherever I happen to be situated in the *Workspace*;
+* This way I never run out of *things to do*; I'm always working on *Something*, so *no time is ever truly lost*, i.e. thre are virtually no *Waiting-Times*;
+* In *algorithmic terms*, I think that this is more efficient than trying to work on a single *Project* or *Series* for 6-10 hours straight;
+* The was I *assign tasks* (to myself) is __*PSEUDO-RANDOM*__;
 * [...]
 
 - - - - - - - - -
