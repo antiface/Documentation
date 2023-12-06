@@ -49,13 +49,39 @@ __*The Switchboard Method:*__
 * Each of these "Stacks" are *built-up* over time as *sedimentary layers or through a sedimentation process*;
 * I continuously *Survey* the top-post surfaces of these many *Stacks* and make *mental links* or __*REFCARDS*__ which I file in my *Inner Refcards-System*, my __*DATABASE-OF-IMAGES*__ (SEE: *Database Arts*);
 * SEE: Images below, of the *3D Workspace as Abstract Cartography* (seen from above) and two diagrams of __*THE SWITCHBOARD METHOD*__ as well as one for *The Stacks-Project*;
-* [...]
 
 ![DELTA WORKSPACE](https://historiotheque.files.wordpress.com/2023/12/delta_workspace_accessed_04dec23a-16h38a_600px_450px.png)
 
 ![THE SWITCHBOARD METHOD](https://historiotheque.files.wordpress.com/2023/12/the_switchboard_method_accessed_04dec23a-16h47a_600px_wide.png)
 
 ![THE STACKS-PROJECT](https://historiotheque.files.wordpress.com/2023/12/the_stacks_project_accessed_04dec23a-16h48b_600px_wide.png)
+
+*2023-12-06 16:39:10*
+
+* I also use __*THE SWITCHBOARD METHOD*__ in my __*RESEARCH PROCESS*__, since I am an interdisciplinary art-researcher;
+* What I do here is I aim for __*COMPLETE UNDERSTANDING*__, not merely *passing understanding*;
+* What I do is follow *my heart & soul*, I only read what is *most relevant* to my current, most fundamental experience of the world;
+* For instance, I'm currently reading a book about the *topological foundations of painting* because it concords nicely with what I'm experiencing these days as a professional painter;
+* But then, I also finished reading a short book by Sigmund Freud on *The Uncanny* (*"L'inquiétante étrangeté"*);
+* I am maybe reading 20 books at the same time, and surprisingly I don't get lost, thanks both to my *prodigious memory* AND *my meticulous note-taking and organizing of learning materials or __reference materials or REFMATS__*;
+* However, like in the rest of __*THE SWITCHBOARD METHOD*_, I rapidly oscillate between reading material, always following the __*DIRECTION AND PACE*__ of what's in *my heart & soul*;
+* So for every page or less or at most 2-3 pages that I read, I stop and take ample notes, i.e. audio notes and physical notes (*Writing*) in notebooks or on *Index Cards* (SEE: __*REFCARDS*__);
+* Then I introspect and self-reflect, contemplate, to make sure *I actually understand what I'm reading*;
+* This can take anywhere from minutes, hours, days, to weeks, months, and even years;
+* Some things that I was reading 20+ years ago, I'm only just beginning to understand __*TODAY*__; it takes *that long*;
+* Anyhow, I rapidly oscillate from book to book, from website to website, and in my research online, I use a variation on the *Switchboard Method*;
+* I do what I have elsewhere called a *WikiWalk*;
+* That is to say, I open up a *web resource* and begin reading it, and I open up each new *relevant hyperlink* into a new tab in my web browser;
+* When I have up to 20-30 tabs open in the browser, to save on *RAM*, I use a *browser extension* that *saves a list of all open tabs and collapses the tabs*;
+* I then copy the list of tabs on my computer in a .txt file that acts as a __*LOG*__ and I also copy a version of it in a *Gist File* on GitHub's *Gist Service*;
+* I then back up all my notes and logs in the cloud as well as on an *external hard-drive*;
+* I do this continuously throughout the day, when I'm not working on art, i.e. painting and music and novel-writing;
+* Do I ever take breaks? Of course, I do. I'm constantly taking breaks, every 5 or 10-15, 20 minutes tops;
+* I find that I get much more done throughout the day when I do things this way;
+* So to recap, while I'm reading books and web resources, PDFs and so forth, I'm constantly *switching* from one to the other;
+* I'll open up a video, watch 5 minutes, then open up another video, watch 3 minutes, then search for someone's name online that was mentioned in a video, etc., etc.; you get the *gist*;
+* I work very rapidly, *at the speed of thought*, constantly logging, documenting, taking notes, and publishing everything online in the manner of __*CONTINUOUS DELIVERY*__;
+* [...]
 
 - - - - - - - - - -
 
