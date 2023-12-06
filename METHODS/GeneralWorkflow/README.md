@@ -115,18 +115,22 @@ December 6th, 2023
 * To give you an example, I might be doing research by reading an *Essay or Article*;
 * I read a few pages and then I can go into the studio more formally and work on a *Collage*, let's say, for another short period of time;
 * Then I can return to reading, but be reading a book outside on the balcony, smoking a cigarette (a *bad habit*, I know, I am in the process of quitting!);
-* I never know what my *Worday* is going to look like, and I just choose *whatever task is most immediate*, i.e. I take something *off the surface of The Historiotheque, my atelier or art studio*;
+* I never know what my *Workday* is going to look like, and I just choose *whatever task is most immediate*, i.e. I take something *off the surface of The Historiotheque, my atelier or art studio*;
 * When I [__*LAUNCH/RE-LAUNCH THE HISTORIOTHEQUE*__](https://medium.com/historiotheque/relaunch-and-subsequent-closing-down-of-the-historiotheque-semantic-version-3-0-4-94714c1d73b5), that is, when I *start it back up* after a period of relative inactivity - and much introspection/self-reflection/contemplation - I start to build up complexity, and disorder, in the *Workspace*;
-* The [__*Workspace*__](https://medium.com/design-science/workspace-906aded7edb2) begins to have piles of books I am reading for the particular *Projects* and *Series* (and *"subseries"*) that I'm working up, piles of books, of papers and folders of papers, as well as piles of *art works from the __Archive__*;
+* The [__*Workspace*__](https://medium.com/design-science/workspace-906aded7edb2) begins to have piles of books I am reading for the particular *Projects* and *Series* (and *"subseries"*) that I'm working on, piles of books, of papers and folders of papers, as well as piles of *art works from the __Archive__*;
 * As I work, I am constantly picking up what I call [__*"Stacks"*__](https://github.com/antiface/Documentation/tree/master/EXPERIMENTS/StacksProject) and moving them around;
 * The *Workspace* grows in complexity and disorder, in its *3D curve* or what I am calling its __*Historiotope or Historiotopia*__;
 * Then, there reaches a point where I can't maintain that high level of complexity and *the whole art operation collapses*;
+* (That *very high level of complexity* requires *new energy inputs*, in part, to be *maintained*. More on that at a later date.);
 * In retrospect, then, I find that I work *relatively quickly*, or with *rapidity*, switching as I do constantly between *tasks/activities*;
 * I can never get *bored*, I always have some task I can take *from the surface*;
 * What I mean by this is that there is a __*3D surface*__ that is exposed to the air in *The Historiotheque* and when I *choose* new tasks, I just take whatever is most *immediate or ready-to-hand*, wherever I happen to be situated in the *Workspace*;
 * This way I never run out of *things to do*; I'm always working on *Something*, so *no time is ever truly lost*, i.e. thre are virtually no *Waiting-Times*;
 * In *algorithmic terms*, I think that this is more efficient than trying to work on a single *Project* or *Series* for 6-10 hours straight;
-* The was I *assign tasks* (to myself) is __*PSEUDO-RANDOM*__;
+* The way I *assign tasks* (to myself) is __*PSEUDO-RANDOM*__;
+* That is, as I was saying, I merely take *whatever task is on the Surface or most immediate/proximate/ready-to-hand*;
+* There is no specific *Order* to the tasks, though, they are chosen *pseudo-randomly*, *pseudo-* because I'm still the *Art Operator* that is *choosing* them;
+* In essence, though, I took the *decision* out of the *decision process/problem*, i.e. the process is, for all intents and purposes, a __*decisionless process*__;
 * [...]
 
 - - - - - - - - -
