@@ -81,6 +81,17 @@ __*The Switchboard Method:*__
 * So to recap, while I'm reading books and web resources, PDFs and so forth, I'm constantly *switching* from one to the other;
 * I'll open up a video, watch 5 minutes, then open up another video, watch 3 minutes, then search for someone's name online that was mentioned in a video, etc., etc.; you get the *gist*;
 * I work very rapidly, *at the speed of thought*, constantly logging, documenting, taking notes, and publishing everything online in the manner of __*CONTINUOUS DELIVERY*__;
+* The *most important part of this process*, I think, is *To Ensure Correct and Complete Understanding of The Reference Materials* (__*"#REFMATS"*__);
+* I can't stress this enough, how it's important to a) follow what is in my heart & soula nd b) work towards *COMPLETE UNDERSTANDINGS*, however long it takes, years and decades if necessary;
+* Then I log, document, organize and publish everything online *For Future Reference*;
+* Another important part is how I organize my notes;
+* Simply put, and I can elaborate on this *Elsewhere*, I have a *running log* where I post everything, my conversations, citations from works online and in PDFs, etc., and every day I go through it and copy out *particularly pertinent materials* and create __*new .txt files*__ with descriptive titles, with the content that I found particularly *interesting*;
+* I also constantly go through *My Old Notes* and copy out relevant materials and create new files and post them in the new files;
+* Every year, also, I have a new folder in my main __*Document folder*__ called, for instance, just __*2023*__, where I put absolutely everything for that given year;
+* I call it my __*Bin-Drive or B:DRIVE*__, where I put absolutely everything;
+* In any case, as I *work IN the Archive*, I go through *old notes* and when a note is particularly relevant or interesting, *I COPY THE ENTIRE NOTE INTO THE NEW YEARLY FOLDER*;
+* So things are constantly being __*DUPLICATED*__, but this is in-line with my concept, and implementation, of __*REDUCANCY IN MY ART-RESEARCH PRACTICE*__;
+* Web sites/web resources in my *logged tab-sets* too get duplicated, but I find it creates a nice *graph or network of tab-sets* that I like to also go through and pick out what is most relevant or interesting;
 * [...]
 
 - - - - - - - - - -
