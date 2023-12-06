@@ -108,6 +108,19 @@ December 3rd, 2023
 * This pushes me to *Make Discoveries* or have *Breakthroughs*, which lead to new books and new *Systems of References*, which I define as a __CARDBOX__;
 * That is to say, the given *Thought* or *Series of Concepts* that I am working on at any given time through my *Understanding Process*, I call those __REFCARDS__ because often I literally write out my *Thoughts & Understandings* on actual *index cards* which I organize into *cardboxes*;
 * The __CARDBOX__ then, is made up of *networks of thoughts*, of interconnected/interconnecting and interpenetrating *Concepts*;
+
+December 6th, 2023
+* In another folder in this *Repository*, I speak more at length about [__*THE SWITCHBOARD METHOD*__](https://github.com/antiface/Documentation/tree/master/METHODS/GeneralWorkflow/SwitchboardMethod) in my daily practice as an interdisciplinary artist-researcher;
+* I really do *SWITCH* activity/task every 5-10 sometimes 15-20 minutes, and I firmly believe that it has made my *Art Operation* more *efficient*;
+* To give you an example, I might be doing research by reading an *Essay or Article*;
+* I read a few pages and then I can go into the studio more formally and work on a *Collage*, let's say, for another short period of time;
+* Then I can return to reading, but be reading a book outside on the balcony, smoking a cigarette (a *bad habit*, I know, I am in the process of quitting!);
+* I never know what my *Worday* is going to look like, and I just choose *whatever task is most immediate*, i.e. I take something *off the surface of The Historiotheque, my atelier or art studio*;
+* When I __*LAUNCH/RE-LAUNCH THE HISTORIOTHEQUE*__, that is, when I *start it back up* after a period of relative inactivity - and much introspection/self-reflection/contemplation - I start to build up complexity, and disorder, in the *Workspace*;
+* The *Workspace* begins to have piles of books I am reading for the particular *Projects* and *Series* (and *"subseries"*) that I'm working up, piles of books, of papers and folders of papers, as well as piles of *art works from the __Archive__*;
+* As I work, I am constantly picking up what I call __*"Stacks"*__ and moving them around;
+* The *Workspace* grows in complexity and disorder, in its *3D curve* or what I am calling its __*Historiotope or Historiotopia*__;
+* Then, there reaches a point where I can't maintain that high level of complexity and *the whole art operation collapses*;
 * [...]
 
 - - - - - - - - -
