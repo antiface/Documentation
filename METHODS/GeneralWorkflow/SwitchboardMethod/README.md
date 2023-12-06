@@ -90,8 +90,8 @@ __*The Switchboard Method:*__
 * Every year, also, I have a new folder in my main __*Document folder*__ called, for instance, just __*2023*__, where I put absolutely everything for that given year;
 * I call it my __*Bin-Drive or B:DRIVE*__, where I put absolutely everything;
 * In any case, as I *work IN the Archive*, I go through *old notes* and when a note is particularly relevant or interesting, *I COPY THE ENTIRE NOTE INTO THE NEW YEARLY FOLDER*;
-* So things are constantly being __*DUPLICATED*__, but this is in-line with my concept, and implementation, of __*REDUCANCY IN MY ART-RESEARCH PRACTICE*__;
-* Web sites/web resources in my *logged tab-sets* too get duplicated, but I find it creates a nice *graph or network of tab-sets* that I like to also go through and pick out what is most relevant or interesting;
+* So things are constantly being __*DUPLICATED*__, but this is in-line with my concept, and implementation, of __*REDUNDANCY IN MY ART-RESEARCH PRACTICE*__;
+* Web sites/web resources in my *logged tab-sets* too get duplicated, but I find it creates a nice *graph or network of tab-sets* that I like to also go through and pick out what is most relevant or interesting; (SEE: I speak of __*redundancy in my methods*__ in these following __*General Workflow Methods*__: [Breadcrumbs](https://github.com/antiface/Documentation/tree/master/METHODS/GeneralWorkflow/Breadcrumbs), [Daypaths](https://github.com/antiface/Documentation/tree/master/METHODS/GeneralWorkflow/Daypaths), [Timestamps](https://github.com/antiface/Documentation/tree/master/METHODS/GeneralWorkflow/Timestamps), and [RefinementProcess](https://github.com/antiface/Documentation/tree/master/METHODS/GeneralWorkflow/RefinementProcess);
 * [...]
 
 - - - - - - - - - -
