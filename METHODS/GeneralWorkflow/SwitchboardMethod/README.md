@@ -64,7 +64,7 @@ __*The Switchboard Method:*__
 * For instance, I'm currently reading a book about the *topological foundations of painting* because it concords nicely with what I'm experiencing these days as a professional painter;
 * But then, I also finished reading a short book by Sigmund Freud on *The Uncanny* (*"L'inquiétante étrangeté"*);
 * I am maybe reading 20 books at the same time, and surprisingly I don't get lost, thanks both to my *prodigious memory* AND *my meticulous note-taking and organizing of learning materials or __reference materials or REFMATS__*;
-* However, like in the rest of __*THE SWITCHBOARD METHOD*_, I rapidly oscillate between reading material, always following the __*DIRECTION AND PACE*__ of what's in *my heart & soul*;
+* However, like in the rest of __*THE SWITCHBOARD METHOD*__, I rapidly oscillate between reading material, always following the __*DIRECTION AND PACE*__ of what's in *my heart & soul*;
 * So for every page or less or at most 2-3 pages that I read, I stop and take ample notes, i.e. audio notes and physical notes (*Writing*) in notebooks or on *Index Cards* (SEE: __*REFCARDS*__);
 * Then I introspect and self-reflect, contemplate, to make sure *I actually understand what I'm reading*;
 * This can take anywhere from minutes, hours, days, to weeks, months, and even years;
