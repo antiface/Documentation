@@ -117,8 +117,8 @@ December 6th, 2023
 * Then I can return to reading, but be reading a book outside on the balcony, smoking a cigarette (a *bad habit*, I know, I am in the process of quitting!);
 * I never know what my *Worday* is going to look like, and I just choose *whatever task is most immediate*, i.e. I take something *off the surface of The Historiotheque, my atelier or art studio*;
 * When I [__*LAUNCH/RE-LAUNCH THE HISTORIOTHEQUE*__](https://medium.com/historiotheque/relaunch-and-subsequent-closing-down-of-the-historiotheque-semantic-version-3-0-4-94714c1d73b5), that is, when I *start it back up* after a period of relative inactivity - and much introspection/self-reflection/contemplation - I start to build up complexity, and disorder, in the *Workspace*;
-* The *Workspace* begins to have piles of books I am reading for the particular *Projects* and *Series* (and *"subseries"*) that I'm working up, piles of books, of papers and folders of papers, as well as piles of *art works from the __Archive__*;
-* As I work, I am constantly picking up what I call __*"Stacks"*__ and moving them around;
+* The [__*Workspace*__](https://medium.com/design-science/workspace-906aded7edb2) begins to have piles of books I am reading for the particular *Projects* and *Series* (and *"subseries"*) that I'm working up, piles of books, of papers and folders of papers, as well as piles of *art works from the __Archive__*;
+* As I work, I am constantly picking up what I call [__*"Stacks"*__](https://github.com/antiface/Documentation/tree/master/EXPERIMENTS/StacksProject) and moving them around;
 * The *Workspace* grows in complexity and disorder, in its *3D curve* or what I am calling its __*Historiotope or Historiotopia*__;
 * Then, there reaches a point where I can't maintain that high level of complexity and *the whole art operation collapses*;
 * In retrospect, then, I find that I work *relatively quickly*, or with *rapidity*, switching as I do constantly between *tasks/activities*;
