@@ -15,4 +15,4 @@
 * [Official Declaration of Production-Year 2025-2026](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2025-2026-fd160f5fd970)
 * [...]
 
-[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
