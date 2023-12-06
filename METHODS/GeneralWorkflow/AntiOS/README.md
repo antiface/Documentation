@@ -17,6 +17,14 @@
 * You can get new *Views* in many different ways, *scanning and searching* through the __*LOGFILE*_ by different *orders*, temporal, alphabetical, conceptual, etc., *organizing it in different ways;
 * The system uses *machine learning to try to predict your future uses*, from using your past data as *training data*;
 * Then you *build up* these new structures in a *streamlined manner* using a form of __*SEDIMENTARY METHOD*__ of using different __*STACKS*__ (SEE: [*"The Stacks-Project"*](https://github.com/antiface/Documentation/tree/master/EXPERIMENTS/StacksProject));
+* I actually use this *Method* but with simple .txt files;
+* I have my *"LOG"* file in which I put absolutely __*EVERYTHING*__, everything from citations of things I read on and offline, I keep a copy there of all my messages and communications, I even keep a log of __*ALL*__ the websites I visit;
+* Then I *Work In The Archive*, meaning that I go through my recent history in the master logfile and *parse* through it, creating new files;
+* If I find content about a certain subject, domain, or topic, I create a new .txt file for that and save it onto the computer;
+* I have a *single main folder* into which I, again, put absolutely everything; this year's folder is just called __*2023*__ and is in my main __*Documents*__ folder;
+* I put everything in there and when I want to find something, I use the system viewer's *search function/feature* to find what I'm looking for;
+* Everything has a *long, descriptive title*, usually with the date that I *"accessed"* the given information or data;
+* That way I always know where I've been, the trail of breadcrumbs I leave behind me, and I can *retrace my steps* up to the current time, at any given time;
 * [...]
 
 __*ANTIOS: codename "Antioch"*__
