@@ -61,4 +61,8 @@
 
 > Ref. McGinnis, L.: An object oriented and axiomatic theory of warehouse design. In: Carrano, A., Gue, K., de Koster, R., Ogle, M., Montreuil, B., Smith, J. (eds.) 12th International Material Handling Research Colloquium--2012. Material Handling Industries of America (2013)
 
-- - - - -
+- - - - - - - - -
+
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
+
+[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
