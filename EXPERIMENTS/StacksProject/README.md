@@ -18,6 +18,10 @@ __THE GEOLOGICAL METHOD__:
 * The __*Stacks*__ are merely *Sections of the Workspace*, consisting literally of *Stacks of Books, Paper, Folders of Paper, Art Works from the Archive, and other Raw Materials for The Art Operation at The Historiotheque*;
 * [...]
 
+![WORKSPACE 2024](https://historiotheque.files.wordpress.com/2023/12/workspace_accessed_07dec23a-05h09e_rotated_color_lookup_signed_800px_600px.png)
+
+![WORKSPACE 2024](https://historiotheque.files.wordpress.com/2023/12/workspace_accessed_07dec23a-05h09b_rotated_color_lookup_signed_800px_600px.png)
+
 - - - - - - - - -
 
 ### [BACK TO DOCUMENTATION / EXPERIMENTS](https://github.com/antiface/Documentation/tree/master/EXPERIMENTS)
