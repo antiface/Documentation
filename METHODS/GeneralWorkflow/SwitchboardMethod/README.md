@@ -103,7 +103,10 @@ __*The Switchboard Method:*__
 > Optimal job scheduling is a class of optimization problems related to scheduling. The inputs to such problems are a list of jobs (also called processes or tasks) and a list of machines (also called processors or workers). The required output is a schedule – an assignment of jobs to machines. The schedule should optimize a certain objective function. In the literature, problems of optimal job scheduling are often called machine scheduling, processor scheduling, multiprocessor scheduling, or just scheduling. (Ref. [Optimal job scheduling - Wikipedia](https://en.wikipedia.org/wiki/Optimal_job_scheduling))
 - - - - - - - - -
 > In mathematical optimization and decision theory, a loss function or cost function (sometimes also called an error function) is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event. An optimization problem seeks to minimize a loss function. An objective function is either a loss function or its opposite (in specific domains, variously called a reward function, a profit function, a utility function, a fitness function, etc.), in which case it is to be maximized. The loss function could include terms from several levels of the hierarchy. (Ref. [Loss function - Wikipedia](https://en.wikipedia.org/wiki/Loss_function))
-
+- - - - - - - - -
+> The assignment problem is a fundamental combinatorial optimization problem. In its most general form, the problem is as follows:
+> 
+> The problem instance has a number of agents and a number of tasks. Any agent can be assigned to perform any task, incurring some cost that may vary depending on the agent-task assignment. It is required to perform as many tasks as possible by assigning at most one agent to each task and at most one task to each agent, in such a way that the total cost of the assignment is minimized. (Ref. [Assignment problem - Wikipedia](https://en.wikipedia.org/wiki/Assignment_problem))
 - - - - - - - - - -
 
 ### [BACK TO DOCUMENTATION / MEHODS / GENERAL WORKFLOW](https://github.com/antiface/Documentation/tree/master/METHODS/GeneralWorkflow)
