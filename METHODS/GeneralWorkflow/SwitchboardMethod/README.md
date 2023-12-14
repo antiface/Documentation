@@ -95,19 +95,14 @@ __*The Switchboard Method:*__
 
 *2023-12-14 05:26:10*
 
-> Single-machine scheduling or single-resource scheduling is an optimization problem in computer science and operations research. We are > given n jobs J1, J2, ..., Jn of varying processing times, which need to be scheduled on a single machine, in a way that optimizes a >
-> certain objective, such as the throughput.
+> Single-machine scheduling or single-resource scheduling is an optimization problem in computer science and operations research. We are given n jobs J1, J2, ..., Jn of varying processing times, which need to be scheduled on a single machine, in a way that optimizes a certain objective, such as the throughput.
 >
-> Single-machine scheduling is a special case of identical-machines scheduling, which is itself a special case of optimal job >
-> scheduling. Many problems, which are NP-hard in general, can be solved in polynomial time in the single-machine case. (Ref. [Single-machine scheduling - Wikipedia](https://en.wikipedia.org/wiki/Single-machine_scheduling))
+> Single-machine scheduling is a special case of identical-machines scheduling, which is itself a special case of optimal job scheduling. Many problems, which are NP-hard in general, can be solved in polynomial time in the single-machine case. (Ref. [Single-machine scheduling - Wikipedia](https://en.wikipedia.org/wiki/Single-machine_scheduling))
 
 - - - - - - - - -
-> Optimal job scheduling is a class of optimization problems related to scheduling. The inputs to such problems are a list of jobs (also > called processes or tasks) and a list of machines (also called processors or workers). The required output is a schedule – an >
-> assignment of jobs to machines. The schedule should optimize a certain objective function. In the literature, problems of optimal job > scheduling are often called machine scheduling, processor scheduling, multiprocessor scheduling, or just scheduling. (Ref. [Optimal job scheduling - Wikipedia](https://en.wikipedia.org/wiki/Optimal_job_scheduling))
+> Optimal job scheduling is a class of optimization problems related to scheduling. The inputs to such problems are a list of jobs (also called processes or tasks) and a list of machines (also called processors or workers). The required output is a schedule – an assignment of jobs to machines. The schedule should optimize a certain objective function. In the literature, problems of optimal job scheduling are often called machine scheduling, processor scheduling, multiprocessor scheduling, or just scheduling. (Ref. [Optimal job scheduling - Wikipedia](https://en.wikipedia.org/wiki/Optimal_job_scheduling))
 - - - - - - - - -
-> In mathematical optimization and decision theory, a loss function or cost function (sometimes also called an error function) is a >
-> function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with > the event. An optimization problem seeks to minimize a loss function. An objective function is either a loss function or its opposite > (in specific domains, variously called a reward function, a profit function, a utility function, a fitness function, etc.), in which >
-> case it is to be maximized. The loss function could include terms from several levels of the hierarchy. (Ref. [Loss function - Wikipedia](https://en.wikipedia.org/wiki/Loss_function))
+> In mathematical optimization and decision theory, a loss function or cost function (sometimes also called an error function) is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event. An optimization problem seeks to minimize a loss function. An objective function is either a loss function or its opposite (in specific domains, variously called a reward function, a profit function, a utility function, a fitness function, etc.), in which case it is to be maximized. The loss function could include terms from several levels of the hierarchy. (Ref. [Loss function - Wikipedia](https://en.wikipedia.org/wiki/Loss_function))
 
 - - - - - - - - - -
 
