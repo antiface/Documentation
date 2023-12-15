@@ -27,19 +27,8 @@
 - RESOURCES
   - [Portrait of The Artist in The 21st Century | Datatypes Project](http://datatypes.tumblr.com/post/56168743116/portrait-of-the-artist-in-the-21st-century)
   - [Diary of A Serial Painter — The Painter’s Almanach — Medium](https://medium.com/the-painters-almanach/94c066a168f1)
-  - [Lev Manovich | Essays : An Archeology of a Computer Screen](http://manovich.net/TEXT/digital_nature.html)
-  - [Tactical Media | ELMCIP](http://elmcip01.norstore.uio.no/critical-writing/tactical-media)
   - [Tactical Media Files article : Tactical Media as Virtuosic Performance](http://www.tacticalmediafiles.net/article.jsp?objectnumber=57127)
   - [Tactical Media by Ali Olney on Prezi](http://prezi.com/h1nrav5x-usc/tactical-media/)
-  - [Tactical media by Raley, Rita](http://prism.talis.com/sussex-ac/items/1087631)
-  - [Sharon Daniel](http://vv.arts.ucla.edu/AI_Society/daniel.html)
-  - [Menticulture Blog](http://www.menticulture.com/browse/Goffman)
-  - [Telling grief II: Menticulture Blog](http://www.menticulture.com/archives/199)
-  - [World / Text: Menticulture Blog](http://www.menticulture.com/archives/196)
-  - [Gloss: Menticulture Blog](http://www.menticulture.com/archives/181)
-  - [Narrative Approaches to Wellbeing: Menticulture Blog](http://www.menticulture.com/archives/180)
-  - [Being and Knowing: World as Diegesis: Menticulture Blog](http://www.menticulture.com/archives/131)
-  - [form follows behavior](http://www.formfollowsbehavior.com/2007/07/16/the-narrative-database/)
   - [Rhizome | Grids](http://rhizome.org/artbase/artwork/3019/)
   - [Database as "symbolic form" - and what's next? by Alice Crawford on Prezi](http://prezi.com/tzi2ebam1wla/database-as-symbolic-form-and-whats-next/)
   - [New media and cultural form: narrative versus database » CraigBellamy.net(.au)](http://www.craigbellamy.net/2006/10/26/new-media-and-cultural-form-narrative-versus-database/)
@@ -49,12 +38,9 @@
   - [Nublog: Database as a genre of new media](http://joeclark.org/nublog/archive/1012.html)
   - [Database and Algorithms: Film’s New Media Language | Genealogies of the Experimental](http://thefoundtheretrieved.wordpress.com/vertov-and-manovich/)
   - [VirtualDayz: Writing and the Digital Life: Human Memory and Life Caching](http://virtualdayz.blogspot.ca/2005/09/writing-and-digital-life-human-memory.html)
-  - [LIFE CACHING | An emerging consumer trend and related new business ideas](http://www.trendwatching.com/trends/LIFE_CACHING.htm)
-  - [Response to “Database as a Genre of New Media” | EV II : Information Visualization](http://danielsauter.com/teaching/AD307_S09/?p=80)
 - DISPOSABILITY
   - [Gabriel (-Honoré) Marcel (Stanford Encyclopedia of Philosophy)](http://plato.stanford.edu/entries/marcel/)
   - [Making Ourselves Disposable « Quantum Est In Rebus Inane](http://kellydeanjolley.com/2011/07/10/making-ourselves-disposable/)
-  - [(ON WASTELAND IN MYTHOLOGY) Online Reader - Project Gutenberg](http://www.gutenberg.org/catalog/world/readfile?fk_files=1454600&pageno=15)
 - - - - - - - - - -
 
 ### [BACK TO DOCUMENTATION / EXPERIMENTS](https://github.com/antiface/Documentation/tree/master/EXPERIMENTS)
