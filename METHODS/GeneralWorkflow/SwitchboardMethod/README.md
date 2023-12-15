@@ -304,7 +304,7 @@ __5. Minimized Bottlenecks:__
 In summary, the non-linear, randomized approach to task assignment in the single-machine scheduling problem with predefined projects offers advantages in terms of efficiency, resource utilization, and adaptability. It minimizes waiting times, reduces mental overhead, and provides a more dynamic and engaging work environment, potentially leading to cost savings and improved overall performance.
 - - - - - - - - - -
 
-### [BACK TO DOCUMENTATION / MEHODS / GENERAL WORKFLOW](https://github.com/antiface/Documentation/tree/master/METHODS/GeneralWorkflow)
+### [BACK TO DOCUMENTATION / METHODS / GENERAL WORKFLOW](https://github.com/antiface/Documentation/tree/master/METHODS/GeneralWorkflow)
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
 [A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
