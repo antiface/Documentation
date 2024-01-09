@@ -7,6 +7,19 @@
   * One needs to know the previous configuration and be able to reinstate that configuration;
   * You could call it the *Restoration of Previous Workstate*;
 
+*06:00 2024-01-09*
+
+* The most important thing in the kind of work of interdisciplinary art-research that I do is *not losing operational continuity*;
+* This means that I always need to know *where I left off*, during my previous *work-session*;
+* That's how one retains and maintains operational continuity, by knowing the previous *work-state* and *continuing in that vein*;
+* This is the fundamental aspect of *Workspace Management*, i.e. the management of the virtual workspace so that you never lose continuity;
+* When you go to bed at night, you leave the workspace behind and in the morning when you go back to work, you need to know *where you left off*;
+* So you have to have some discipline in your work practices, you need to leave *a trail of breadcrumbs* that you can follow to come back to the fundamental *Workspace* you were in during your previous *work-session*;
+* This means backing up all your data, all your current files, your logs and so forth;
+* It also means documenting all your practices and making them accessible online;
+* Everything needs to be accessible online so you can *work remotely*, never knowing if you are going to be at home or not when you need to keep working;
+* All projects are saved and can be restored at any time;
+
 - - - - - - - - -
 
 ### [BACK TO DOCUMENTATION / METHODS](https://github.com/antiface/Documentation/tree/master/EXPERIMENTS)
