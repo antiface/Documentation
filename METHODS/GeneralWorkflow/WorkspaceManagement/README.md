@@ -19,6 +19,9 @@
 * It also means documenting all your practices and making them accessible online;
 * Everything needs to be accessible online so you can *work remotely*, never knowing if you are going to be at home or not when you need to keep working;
 * All projects are saved and can be restored at any time;
+* *In the workspace, in general, I always use timestamps and when I "leave off", I write what the last thing was that I was doing*;
+* *In this way, I never lose track of what I'm doing, and I can reconstruct temporal orders of things based on my multiple log-files*;
+* I basically only need to remember what the __*LAST THING*__ was that I was working on; the rest can be reconstructed from the timestamped materials;
 
 - - - - - - - - -
 
