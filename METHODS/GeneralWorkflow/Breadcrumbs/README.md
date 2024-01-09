@@ -15,7 +15,7 @@
 ### Breadcrumbs: Rationale
 * In the workspace, in general, I always use timestamps and when I "leave off", I write what the last thing was that I was doing;
 * In this way, I never lose track of what I'm doing, and I can reconstruct temporal orders of things based on my multiple log-files (since everything is timestamped, even multiple times per page in my notebooks, i.e. I use a timestamp every time I write something down basically);
-* What happened over time, over decades of time actually, is that I learned that using centralized repositories for notes and logs and so forth was a very provably wrong and brokenway of going about things;
+* What happened over time, over decades of time actually, is that I learned that using centralized repositories for notes and logs and so forth was a very provably wrong and broken way of going about things;
 * History, or the forces of History, have taught me time and again that notebooks are not eternal. They can be damaged, lost, stolen, your system can be sabotaged, your house can burn down or be flooded, etc.;
 * In short, one wants to avoid central repositories, and also one has to chose what one should be logging/documenting/archiving;
 * One cannot log, document, and archive "EVERYTHING". The archive will be too big or there will be too much noise, it will be difficult to find things, if not impossible, it will be costly and also one just doesn't NEED to log everything;
