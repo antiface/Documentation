@@ -20,7 +20,7 @@
 * In short, one wants to avoid central repositories, and also one has to chose what one should be logging/documenting/archiving;
 * One cannot log, document, and archive "EVERYTHING". The archive will be too big or there will be too much noise, it will be difficult to find things, if not impossible, it will be costly and also one just doesn't NEED to log everything;
 * One only has to log and archive important things, not something like a catalogue of the television shows that I've watched over the course of a year, unless of course that is pertinent to the work I'm doing, is important to note, etc.;
-* The "objects" that are scattered about, call them repos or repositories or notebooks, which are mostly log-files, these must contain timestampes. I cannot stress this enough;
+* The "objects" that are scattered about, call them repos or repositories or notebooks, which are mostly log-files, these must contain timestamps. I cannot stress this enough;
 * One "period" of time or else one time "segment", time "slice", or an "event" is itself also an "object" as far as the workspace and its history (and archives) are concerned;
 * The log-file is made up of these atomic parts which are ENTRIES in the ledger or accounting system. Every surface where I have "left off", then, should contain such "objects", with timestamps and data/metadata about what I was doing;
 * These are the "breadcrumbs", which can be used to retrace my steps at any given time and place, and reconstruct the temporal order of events, things, in the history of the workspace;
