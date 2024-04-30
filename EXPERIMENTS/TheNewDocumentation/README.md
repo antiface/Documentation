@@ -99,7 +99,7 @@ __The New Documentation for Art-Research Projects: A Paradigm Shift in Interdisc
 - Analogous to genres in literary theory, there exist genres within artistic practice, each characterized by unique aesthetics, techniques, and conceptual frameworks. Whether it's visual arts, performance art, digital art, or multimedia installations, each genre represents a distinct mode of expression within the broader spectrum of art-research projects. The New Documentation encourages artists and researchers to explore and document these genres, facilitating deeper insights and understanding within the artistic community.
 6. __Documentation for Reflecting Artistic Genres__:
 - To effectively document artistic genres and creative processes, it's essential to develop appropriate and comprehensive documentation practices. This includes not only technical documentation but also contextual narratives, conceptual frameworks, and critical reflections. By documenting artistic genres in a manner that reflects their complexities and nuances, artists and researchers can enrich the discourse surrounding their work and invite broader engagement from diverse audiences.
-7. Conclusion:
+7. __Conclusio__n:
 
 "The New Documentation" heralds a new era of interdisciplinary art-research practice, characterized by accessibility, transparency, and collaboration. By applying principles from software development and literary theory, artists and researchers can redefine the documentation of creative processes, fostering deeper understanding, interdisciplinary dialogue, and innovation within the realm of contemporary art.
 
