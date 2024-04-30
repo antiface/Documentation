@@ -1,5 +1,7 @@
 # THE NEW DOCUMENTATION
-- I am thinking of a New Documentation for software projects;
+
+*PREAMBLE*
+- I am thinking of a New Documentation for software projects, applied specifically to contemporary, interdisciplinary art-research practices;
 - I think that a software project, if it is truly open source, has to be "accessible" to non-experts;
 - It is more and more true today, and will be even more true in the future, that source code is being "read" by non-experts, by non-programmers, non-coders;
 - That is to say, more and more, code is not only being handled by the "experts", the engineers and so forth;
