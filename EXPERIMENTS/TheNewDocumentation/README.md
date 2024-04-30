@@ -60,7 +60,7 @@ __The New Documentation: Enabling Continuous Delivery in Artistic Practice__
 - __Community Building__:
   - By embracing transparency and collaboration, The New Documentation fosters a sense of community within the artistic world, encouraging dialogue, exchange, and mutual support among artists.
 5. __Conclusion__:
-"The New Documentation" represents a paradigm shift in artistic practice, emphasizing transparency, reproducibility, and community engagement. By embracing these principles, artists empower themselves and others to explore the boundaries of creativity and knowledge in the digital age.
+- "The New Documentation" represents a paradigm shift in artistic practice, emphasizing transparency, reproducibility, and community engagement. By embracing these principles, artists empower themselves and others to explore the boundaries of creativity and knowledge in the digital age.
 
 - - - - - - - - - - -
 
@@ -102,8 +102,7 @@ __The New Documentation for Art-Research Projects: A Paradigm Shift in Interdisc
 6. __Documentation for Reflecting Artistic Genres__:
 - To effectively document artistic genres and creative processes, it's essential to develop appropriate and comprehensive documentation practices. This includes not only technical documentation but also contextual narratives, conceptual frameworks, and critical reflections. By documenting artistic genres in a manner that reflects their complexities and nuances, artists and researchers can enrich the discourse surrounding their work and invite broader engagement from diverse audiences.
 7. __Conclusion__:
-
-"The New Documentation" heralds a new era of interdisciplinary art-research practice, characterized by accessibility, transparency, and collaboration. By applying principles from software development and literary theory, artists and researchers can redefine the documentation of creative processes, fostering deeper understanding, interdisciplinary dialogue, and innovation within the realm of contemporary art.
+- "The New Documentation" heralds a new era of interdisciplinary art-research practice, characterized by accessibility, transparency, and collaboration. By applying principles from software development and literary theory, artists and researchers can redefine the documentation of creative processes, fostering deeper understanding, interdisciplinary dialogue, and innovation within the realm of contemporary art.
 
 - - - - - - - - - - -
 
@@ -112,7 +111,7 @@ __The New Documentation for Art-Research Projects: A Paradigm Shift in Interdisc
 __The New Documentation: A Systematic Approach to Artistic Transparency and Reproducibility__
 
 __Mission Statement__
-To revolutionize the art world by promoting transparency, accountability, and reproducibility through a systematic documentation process, enabling artists to share their creative journey and empowering others to build upon their work.
+- To revolutionize the art world by promoting transparency, accountability, and reproducibility through a systematic documentation process, enabling artists to share their creative journey and empowering others to build upon their work.
 
 __Core Principles__
 1. __Everything gets logged__: Document every aspect of the artistic process, from concept to completion.
@@ -150,7 +149,7 @@ __Benefits__
 - __Community Engagement__: Fosters a community of artists, researchers, and enthusiasts, promoting feedback and contributions.
 
 __Conclusion__
-The New Documentation revolutionizes the art world by promoting transparency, accountability, and reproducibility. By systematically documenting every aspect of the artistic process and sharing it publicly, artists can ensure that their work is accessible, understandable, and buildable upon. Embracing this approach, we can create a more collaborative, innovative, and responsible art community.
+- The New Documentation revolutionizes the art world by promoting transparency, accountability, and reproducibility. By systematically documenting every aspect of the artistic process and sharing it publicly, artists can ensure that their work is accessible, understandable, and buildable upon. Embracing this approach, we can create a more collaborative, innovative, and responsible art community.
 
 - - - - - - - - - - -
 
