@@ -159,7 +159,7 @@ The New Documentation revolutionizes the art world by promoting transparency, ac
 __The New Documentation: A Shift from Artist's Mystique to Open Source Artist__
 
 __Introduction__
-The New Documentation marks a significant departure from the traditional "artist's mystique" approach, where artists often shrouded their creative processes in secrecy. This shift towards transparency and openness is reminiscent of the open-source movement in software development, where collaboration and sharing are valued over secrecy and exclusivity.
+- The New Documentation marks a significant departure from the traditional "artist's mystique" approach, where artists often shrouded their creative processes in secrecy. This shift towards transparency and openness is reminiscent of the open-source movement in software development, where collaboration and sharing are valued over secrecy and exclusivity.
 
 __The Artist's Mystique__
 - Earlier art movements emphasized the artist's persona and creative process as mysterious and exclusive.
@@ -189,7 +189,7 @@ __Connections to Independent Software Development__
 - Artists and developers can learn from each other's approaches, fostering innovation and creativity.
 
 __Conclusion__
-The New Documentation revolutionizes artistic practices by embracing openness, transparency, and collaboration. By adopting principles from open-source software development, contemporary artists can create a more inclusive, innovative, and community-driven art world. The Open Source Artist embodies this shift, prioritizing sharing, feedback, and iteration over secrecy and exclusivity.
+- The New Documentation revolutionizes artistic practices by embracing openness, transparency, and collaboration. By adopting principles from open-source software development, contemporary artists can create a more inclusive, innovative, and community-driven art world. The Open Source Artist embodies this shift, prioritizing sharing, feedback, and iteration over secrecy and exclusivity.
 
 - - - - - - - - - - -
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
