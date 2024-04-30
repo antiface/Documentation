@@ -154,6 +154,44 @@ The New Documentation revolutionizes the art world by promoting transparency, ac
 
 - - - - - - - - - - -
 
+07:07 2024-04-30
+
+__The New Documentation: A Shift from Artist's Mystique to Open Source Artist__
+
+__Introduction__
+The New Documentation marks a significant departure from the traditional "artist's mystique" approach, where artists often shrouded their creative processes in secrecy. This shift towards transparency and openness is reminiscent of the open-source movement in software development, where collaboration and sharing are valued over secrecy and exclusivity.
+
+__The Artist's Mystique__
+- Earlier art movements emphasized the artist's persona and creative process as mysterious and exclusive.
+- Artists often kept their techniques and inspirations secret to maintain an air of enigma.
+- This approach reinforced the notion of art as an elite, inaccessible domain.
+
+__The New Documentation: A Shift towards Openness__
+- The New Documentation promotes transparency and accountability in artistic practices.
+- By sharing their processes and research publicly, artists embrace an open-source approach.
+- This shift fosters collaboration, feedback, and community engagement, democratizing the art world.
+
+__The Open Source Artist__
+- Inspired by the open-source software movement, where developers share code and collaborate.
+- Contemporary, interdisciplinary art-research practices adopt similar principles:
+  - Share knowledge and resources.
+  - Encourage feedback and contributions.
+  - Embrace iterative development and version control.
+- The Open Source Artist prioritizes collaboration, innovation, and community over secrecy and exclusivity.
+
+__Connections to Independent Software Development__
+- Both art-research and software development involve iterative processes, experimentation, and problem-solving.
+- Open-source software development and The New Documentation share common values:
+  - Transparency
+  - Collaboration
+  - Community engagement
+  - Continuous improvement
+- Artists and developers can learn from each other's approaches, fostering innovation and creativity.
+
+__Conclusion__
+The New Documentation revolutionizes artistic practices by embracing openness, transparency, and collaboration. By adopting principles from open-source software development, contemporary artists can create a more inclusive, innovative, and community-driven art world. The Open Source Artist embodies this shift, prioritizing sharing, feedback, and iteration over secrecy and exclusivity.
+
+- - - - - - - - - - -
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
 [A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
