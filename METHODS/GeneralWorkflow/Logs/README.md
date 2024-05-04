@@ -20,6 +20,15 @@
 
 - - - - - - - - - -
 
+*11:15 2024-05-04*
+
+__DISTRIBUTED LOGGING METHODOLOGY (AND ITS BENEFITS!):__
+* What was written above this current update - and documentation/logging - was written about 4 years ago, if I am not mistaken, or was at the very least last updated at around that time;
+* Above I mentioned that *"Keeping several types of interlinked/interconnected logs can be a useful form of documentation of the processes of an organization"*; I will say a few things about this, a specific use-case which I am calling, for lack of a better term, a *"distributed logging methodology"*;
+* *More to come, soon!*;
+
+- - - - - - - - - -
+
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
 [A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
