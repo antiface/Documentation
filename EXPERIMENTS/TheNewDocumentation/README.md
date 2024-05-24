@@ -281,6 +281,17 @@ This elaborate outline provides a structured framework for creating an abstract 
 
 - - - - - - - - - - -
 
+08:45 2024-05-24
+
+*The New Documentation embodies several fundamental concepts central to its framework. Here are the five key concepts:*
+1. __Transparency and Accessibility__: The New Documentation emphasizes making every aspect of the artistic process transparent and accessible to the public. This includes continuous logging of the artistic journey and sharing this information in publicly accessible spaces, such as distributed revision control systems (e.g., Git repositories).
+2. __Reproducibility and Accountability__: A commitment to reproducibility ensures that others can recreate the artistic work by following the documented process. Accountability is fostered as artists thoroughly document their methodologies and decisions, promoting integrity and responsibility within the artistic community.
+3. __Collaboration and Community Engagement__: By adopting principles from open-source software development, The New Documentation encourages collaboration and community involvement. Artists are urged to seek feedback, engage in peer review, and build a supportive network that contributes to and benefits from shared knowledge and practices.
+4. __Iterative Development and Version Control__: Continuous iteration and the use of version control systems are fundamental. Artists track changes, develop their work iteratively, and maintain detailed logs of their progress, similar to software development practices.
+5. __Interdisciplinary Integration__: The framework promotes interdisciplinary engagement, facilitating collaboration across diverse fields and industries. Documentation practices are tailored to be accessible to non-experts, encouraging broader participation and fostering innovation through cross-disciplinary dialogue.
+
+- - - - - - - - - - -
+
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
 [A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
