@@ -13,6 +13,7 @@
 * [Official Declaration of Production-Year 2023–2024](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2023-2024-e136153b27ee)
 * [Official Declaration of Production-Year 2024–2025](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2024-2025-409de041379)
 * [Official Declaration of Production-Year 2025-2026](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2025-2026-fd160f5fd970)
+* [Official Declaration of Production-Year 2026–2027](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2026-2027-ad6b26dfea0a)
 * [...]
 
 [A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
