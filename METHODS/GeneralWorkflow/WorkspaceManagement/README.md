@@ -46,11 +46,9 @@
 
 # EXPERIMENT: (number and title clearly stated)
 
-# (Clear statement of purpose)
+# STATEMENT OF PURPOSE: (Clear statement of purpose)
 
 # PROCEDURE:  (succinct description of procedure
-
-# SIGNATURE:
 
 import os
 import time
