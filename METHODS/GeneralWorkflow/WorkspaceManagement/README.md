@@ -25,7 +25,20 @@
 
 - - - - - - - - -
 
+*00:32:17 2026-05-07*
+
+* I have been working on the actual __WORKSPACE__ and the __delta-workspace theory__ that goes with it;
+* The __delta-workspace theory__ has mainly to do with the __variable geometry of the workspace__ and the workspace itself as *"the 3D surface of the workspace as it changes over time"*;
+* I will get into this more soon. I just wanted to come back to this after a 2-year hiatus;
+* I have been hard at work logging and documenting everything, something which I hadn't done very much of since last September, 2025;
+* I published what I call an __"antilog"__ online on a blogging platform, __*"documenting the documentation*__" if you will, as part of what i now call the __*nonlinear practices and methodologies of hyperreflexive design*__, which I sometimes simplify as just *Reflexive Design* or *Non-Linear Practice* (see: [ANTILOG_06May26a](https://antilog.blogspot.com/2026/05/antilog06may26a.html);
+* As I said, I will come back to this sortly and explain how it pertains to __WORKSPACE MANAGEMENT__ and my __*ambient experimental design workflow management methodology*__ or just *ALX* or else the *"delta-workspace model"* as I mentioned above (sorry, also as the concept in *Historiomics* of __historiotope/historiotopia__).
+
+![documentary_method](https://historiotheque.wordpress.com/wp-content/uploads/2026/05/202605062228.png)
+
+- - - - - - - - -
+
 ### [BACK TO DOCUMENTATION / METHODS](https://github.com/antiface/Documentation/tree/master/METHODS)
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
-[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2026. ![A.G. (c) 2026. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
