@@ -50,6 +50,8 @@
 
 # PROCEDURE:  (succinct description of procedure
 
+# NOTES: (notes on all of the above and thoughts on the documentation process itself, reflexively)
+
 import os
 import time
  
