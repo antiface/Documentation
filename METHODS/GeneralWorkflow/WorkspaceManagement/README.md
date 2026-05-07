@@ -84,17 +84,19 @@ def note():
 
 *Previously in the workspace... around 10PM last night...*
 
-__*All the projects are the same anyway...*__
+__*"All the projects are the same anyway..."*__
 
-- I just was oscillating for one of my "15-minute workdays" or "work sessions" from two separate Gemini tabs, one tab for sending an email to myself, but I worked on the two Gemini tabs in conjunction with a document I was creating of the chat I had just had with the AI;
-- Then I was also trying to find a reference in my archives of the concept of "delta-workspace" and "historiotopia" originally from a GitHub repository readme.md file, but which I was searching trying to find in another instance where I had posted the same content but in a Medium article;
-- I keep switching from thing to thing, "tab-to-tab", "tab-to-editor", it's the translations and transitions from one to the other;
-- I was also in the process of planning to send an email to myself with copies of documents I had been working on one of my computers, the Ubuntu machine;
-- Then I'm already planning retrieving the documents in my email on my Windows laptop, after which I was going to print out a dozen pages on that computer;
-- Then I was planning on going to read the documents at the kitchen table;
-- Except I'm following a random, nonlinear trajectory/path through the workspace;
-- I go from window to window, from device to device, media to media, always in "transition / interval / contact";
-- There was more to it but that's it for now, this has been a data log, a snapshot of the workspace as it was in the previous hour or so;
+> - I just was oscillating for one of my "15-minute workdays" or "work sessions" from two separate Gemini tabs, one tab for sending an email to myself, but I worked on the two Gemini tabs in conjunction with a document I was creating of the chat I had just had with the AI;
+> - Then I was also trying to find a reference in my archives of the concept of "delta-workspace" and "historiotopia" originally from a GitHub repository readme.md file, but which I was searching trying to find in another instance where I had posted the same content but in a Medium article;
+> - I keep switching from thing to thing, "tab-to-tab", "tab-to-editor", it's the translations and transitions from one to the other;
+> - I was also in the process of planning to send an email to myself with copies of documents I had been working on one of my computers, the Ubuntu machine;
+> - Then I'm already planning retrieving the documents in my email on my Windows laptop, after which I was going to print out a dozen pages on that computer;
+> - Then I was planning on going to read the documents at the kitchen table;
+> - Except I'm following a random, nonlinear trajectory/path through the workspace;
+> - I go from window to window, from device to device, media to media, always in "transition / interval / contact";
+> - There was more to it but that's it for now, this has been a data log, a snapshot of the workspace as it was in the previous hour or so;
+
+- - - - - - -
 
 May 07, 2026 / 05h30
 
