@@ -37,6 +37,46 @@
 
 ![documentary_method](https://historiotheque.wordpress.com/wp-content/uploads/2026/05/202605062228.png)
 
+* For future reference and for documentation purposes, here is the Python script I mentioned above, to generate *LabNotes* for my design experiments;
+* It's pretty rudimentary and crude, but it does the job; I will likely be rewriting it completely, improving it, and turning it into an actual app; I've made a few attempts at this in the past, but need to update it, I think, with my current knowledge of and expertise in Python;
+
+```python
+# DATETIME: (date at top)
+
+# EXPERIMENT: (number and title clearly stated)
+
+# (Clear statement of purpose)
+
+# PROCEDURE:  (succinct description of procedure
+
+# SIGNATURE:
+
+import os
+import time
+ 
+os.chdir(FILEPATH) # Repository location for Labnotes.
+ 
+def writeNote(x):
+	with open(x, 'w') as outfile:
+		outfile.write('Time: '+time.asctime())
+		outfile.write('\n')
+		outfile.write('\n')
+		outfile.write('Experiment: '+input('Experiment: '))
+		outfile.write('\n')
+		outfile.write('\n')
+		outfile.write('Statement of Purpose: '+input('Statement of Purpose: '))
+		outfile.write('\n')
+		outfile.write('\n')
+		outfile.write('Procedure: '+input('Procedure: '))
+		outfile.write('\n')
+		outfile.write('\n')
+		outfile.write('Notes: '+input('Notes: '))
+		
+def note():
+	t = time.strftime('%Y%m%d%H%M')
+	writeNote(t+'.txt')
+```
+
 - - - - - - - - -
 
 ### [BACK TO DOCUMENTATION / METHODS](https://github.com/antiface/Documentation/tree/master/METHODS)
