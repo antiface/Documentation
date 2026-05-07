@@ -82,38 +82,36 @@ def note():
 
 06:28 2026-05-07
 
+*Previously in the workspace... around 10PM last night...*
 
-2026-05-06 21:55:19
+__*All the projects are the same anyway...*__
 
-- ALL THE PROJECTS ARE THE SAME ANYWAY;
-- I JUST WAS OSCILLATING FOR ONE OF MY "15-MINUTE WORKDAYS" or "WORK SESSIONS" FROM TWO SEPARATE GEMINI TABS, ONE TAB FOR SENDING AN EMAIL TO MYSELF, BUT I WORKED ON THE TWO GEMINI TABS IN CONJUNCTION WITH A DOCUMENT I WAS CREATING OF THE CHAT I HAD JUST HAD WITH THE AI;
-- THEN I WAS ALSO TRYING TO FIND A REFERENCE IN MY ARCHIVES OF THE CONCEPT OF "DELTA-WORKSPACE" AND "HISTORIOTOPIA" ORIGINALLY FROM A GITHUB REPOSITORY README.MD FILE, BUT WHICH I WAS SEARCHING TRYING TO FIND IN ANOTHER INSTANCE WHERE I HAD POSTED THE SAME CONTENT BUT IN A MEDIUM ARTICLE;
-- I KEEP SWITCHING FROM THING TO THING, "TAB-TO-TAB", "TAB-TO-EDITOR", IT'S THE TRANSLATIONS AND TRANSITIONS FROM ONE TO THE OTHER;
-- I WAS ALSO IN THE PROCESS OF PLANNING TO SEND AN EMAIL TO MYSELF WITH COPIES OF DOCUMENTS I HAD BEEN WORKING ON ONE OF MY COMPUTERS, THE UBUNTU MACHINE;
-- THEN I'M ALREADY PLANNING RETRIEVING THE DOCUMENTS IN MY EMAIL ON MY WINDOWS LAPTOP, AFTER WHICH I WAS GOING TO PRINT OUT A DOZEN PAGES ON THAT COMPUTER;
-- THEN I WAS PLANNING ON GOING TO READ THE DOCUMENTS AT THE KITCHEN TABLE;
-- EXCEPT I'M FOLLOWING A RANDOM, NONLINEAR TRAJECTORY/PATH THROUGH THE WORKSPACE;
-- I GO FROM WORKSPACE TO WORKSPACE, FROM DEVICE TO DEVICE, MEDIA TO MEDIA, ALWAYS IN "TRANSITION / INTERVAL / CONTACT";
-- THERE WAS MORE TO IT BUT THAT'S IT FOR NOW, THIS HAS BEEN A DATA LOG, A SNAPSHOT OF THE WORKSPACE AS IT WAS IN THE PREVIOUS HOUR OR SO;
-- TRANSITION / INTERVAL / CONTACT;
-- "CONSCIENCE / VALUE / MOTIVE";
+- I just was oscillating for one of my "15-minute workdays" or "work sessions" from two separate Gemini tabs, one tab for sending an email to myself, but I worked on the two Gemini tabs in conjunction with a document I was creating of the chat I had just had with the AI;
+- Then I was also trying to find a reference in my archives of the concept of "delta-workspace" and "historiotopia" originally from a GitHub repository readme.md file, but which I was searching trying to find in another instance where I had posted the same content but in a Medium article;
+- I keep switching from thing to thing, "tab-to-tab", "tab-to-editor", it's the translations and transitions from one to the other;
+- I was also in the process of planning to send an email to myself with copies of documents I had been working on one of my computers, the Ubuntu machine;
+- Then I'm already planning retrieving the documents in my email on my Windows laptop, after which I was going to print out a dozen pages on that computer;
+- Then I was planning on going to read the documents at the kitchen table;
+- Except I'm following a random, nonlinear trajectory/path through the workspace;
+- I go from window to window, from device to device, media to media, always in "transition / interval / contact";
+- There was more to it but that's it for now, this has been a data log, a snapshot of the workspace as it was in the previous hour or so;
 
 May 07, 2026 / 05h30
 
 - Then early this morning, at one point I was reading and writing in bed, unable to fall asleep. I ended up going out for a smoke and had a coffee. I had a friendly encounter with a skunk.
 - I spent time planning the first part of my day. Before that, I looked and leafed through my personal library and took out a half-dozen nooks I need to resd or reread and put them on the kitchen table. I plan to go through them today and read and reread them over coming days.
 - References to specific works I have studied previously pop up in my mind at random times over the course of the day. I am more and more in the default mode, wandering like a vagabond,
-- Before all of this, I was working at one of my two computer stations doing deep research and taking notes. I also wrote logs in one of my GitHub repositories on WORKSPACEMANAGEMENT. I wrote about it above, going from "tab-to-tab", "app-to-app" transitions, continually, etc.
+- Before all of this, I was working at one of my two computer stations doing deep research and taking notes. I also wrote logs in one of my GitHub repositories on __*WORKSPACE MANAGEMENT*__. I wrote about it above, going from "tab-to-tab", "app-to-app" transitions, continually, etc.
 - I reckon people will think I'm too systematic in my appriach. Systematicity seems to scare people, even those who make a living researching and/or teaching complexity and writing books on the subject. No one wants to LIVE in complexity.
-- Complexity of experience can be very taxing, is a burden, it has many costs. People who specialize in doing hours of DEEP WORK every day work hard at building up complex structures in their minds, but behaviorally they are quite simple: they stand at a standing desk for 3-4 hours at a time or less. They do not LIVE complexity (they actually try to avoid it, I would say.
+- Complexity of experience can be very taxing, is a burden, it has many costs. People who specialize in doing hours of __*DEEP WORK*__ every day work hard at building up complex structures in their minds, but behaviorally they are quite simple: they stand at a standing desk for 3-4 hours at a time or less. They do not LIVE complexity (they actually try to avoid it, I would say.
 - Peculiarities of my mental condition make sustaining any level of concentration and attention nearly impossible. That's partly why I mosy my way around the workspace, wandering semi-aimlessly.
 - The thing with trying to maximize compkexity in thought - inching towards that proverbial "ceiling of abstraction" (and systematic analysis) - is that in any given hour more or less, or every 15 minutes or less, the complex, multifaceted and multi-layered model you are building will suddenly collapse right in front of your eyes like a house of cards or a castle made of sand (and there is no remedy... except accepting one's date and quickly going back to work.
 - Whiie I was having a coffee and cigarette on the balcony earlier (which is one of the 5 work states or "substations", if you will), I took notes and made a field recording of the ambient sound with the early birds.
 - Yesterday was very oroductive, as I achieved a significant boost in efficiency across the "global workspace". As I said, I operate with 5 unique locations in The Historiotheque where I can do my work.
-- Like I do with many domains and disciplines, I work across media, "intermedially", moving from "medium-to-medium", "device-to-device", etc. This "complexities work across the workspace, where a kind of 3D or 4D surface is oscillating, is changing shape and configuration over time.
+- Like I do with many domains and disciplines, I work across media, __*"intermedially"*__ (see: *Strategic Intermedia Arts*), moving from "medium-to-medium", "device-to-device", etc. This "complexities work across the workspace, where a kind of 3D or 4D surface is oscillating, is changing shape and configuration over time.
 - This is partly how I build up complexity in the workspace, via the implementation of randomized, dynamic task assignment algorithms (see: Ref. THE NOISE IN ]THE WORKSPACE PROJECT PROGRESS REPORT](https://medium.com/design-science/the-noise-in-the-workspace-project-progress-report-6773257fff9a). The complexity build up, then comes tumbling down. I call it "BABEL UP/BABEL DOWN", like in the Biblical story (see:  Ref. [THE TOWER OF INCOMPLETENESS AND INCOMPREHESION](https://medium.com/the-painters-almanach/the-tower-of-incompleteness-and-incomprehension-bc804a449845).
-- It is contest against time and space and is largely an effect of combinations of movememts or "switches", if you will, from station-to-sration, different orderings between tasks, sequences/sequencing. Call it combinatorial complexity of rapidly cycling, discrete work sessions.
-- Constraints are numerous, are aplenty. But complete and total collapse of the previously growing models and schemas is just around the corner. Call them "interruptions in the workflow"  or "discontinuities". There's no escaping it. Life means death. Every process that is spawned will eventually be "killed", as death or the ultimate end-state is already implied in its very definition.
+- It is contest against time and space and is largely an effect of combinations of movememts or __*"switches"*__, if you will, from station-to-sration, different orderings between tasks, sequences/sequencing. Call it combinatorial complexity of rapidly cycling, discrete work sessions.
+- Constraints are numerous, are aplenty. But complete and total collapse of the previously growing models and schemas is just around the corner. Call them __*"interruptions in the workflow"*__  or "discontinuities". There's no escaping it. Life means death. Every process that is spawned will eventually be "killed", as death or the ultimate end-state is already implied in its very definition.
 - Do not become despondent and worry! This is the natural order of things. To be continued...
 
 - - - - - - - - -
