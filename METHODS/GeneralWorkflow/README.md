@@ -144,12 +144,14 @@ __May 09, 2026__
 
 *14:18 2026-05-09*
 
-* Even though I haven't really *looked over* this Repository essentially since I created it, these latest notes at least, I have successfully implemented and continued to implement and practice pretty much everything I said;
+* Even though I haven't really *looked over* this Repository essentially since I created it, the latest of the notes at least, I have successfully implemented and continue to implement and practice pretty much everything I said;
 * I even keep simplifying and improving, streamlining, the whole __*PROCESS*__: What I am calling now at times, __NONLINEAR PRACTICE__;
-* As I said, I still do most of this. I have been working on a __*pure and applied workspace theory*__, something I still refer to as the __DELTA-WORKSPACE MODEL__;
+* As I said, I still do most of this. I have been working on a __*pure and applied workspace theory*__, something I still refer to as the __DELTA-WORKSPACE MODEL__; I will get to that shortly;
 * I have divided up the *General Workspace of The Historiotheque*, my personal art studio / sound design + research laboratories, into __*5 basic work-stations*__; I work on one __station_ and then move __station-to-station__ to the next one;
 * I work in 15-minute intervals, more or less, on average; I call that __THE SWITCHBOARD METHOD__;
-* It functions through what is called here [__*Dynamic Task Assignment in the Creative Workspace*__](https://medium.com/design-science/dynamic-task-assignment-in-the-creative-workspace-8fe8db8a272c);
+* It functions through what is called here [__*Dynamic Task Assignment in the Creative Workspace*__](https://medium.com/design-science/dynamic-task-assignment-in-the-creative-workspace-8fe8db8a272c); More to come on the underlying theory, which I find captivating in the highest;
+* The essence is that I continuously *tast-switch* and that I think I maybe found a *loophole in the interruption science research*;
+* I watched a talk at Google by Daniel Levitin from many years back. He talks about the costs in loss of productivity with *task-switching*. The thing is, I found he sort of contradicted himself.
 * [...]
 
 - - - - - - - - -
