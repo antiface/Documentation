@@ -151,7 +151,8 @@ __May 09, 2026__
 * I work in 15-minute intervals, more or less, on average; I call that __THE SWITCHBOARD METHOD__;
 * It functions through what is called here [__*Dynamic Task Assignment in the Creative Workspace*__](https://medium.com/design-science/dynamic-task-assignment-in-the-creative-workspace-8fe8db8a272c); More to come on the underlying theory, which I find captivating in the highest;
 * The essence is that I continuously *tast-switch* and that I think I maybe found a *loophole in the interruption science research*;
-* I watched a talk at Google by Daniel Levitin from many years back. He talks about the costs in loss of productivity with *task-switching*. The thing is, I found he sort of contradicted himself.
+* I watched a talk at Google by Daniel Levitin from many years back. He talks about the costs in loss of productivity with *task-switching*. The thing is, I found he sort of contradicted himself. On the one hand, he says task-switching is wasteful and costly and basically bad, but then he's saying that the default mode of the brain, which is least wasteful, is the one which leads to daydreaming and mind-wandering, nonlinear thinking, and all of the good things that I like about the work I do in this __WORKSPACE__;
+* Levitin never actually says that it's bad, he's a scientist and is not in the business I don't think of making value judgments; But seriously, which is it? Is it a good thing generaly to be less wasteful? He says it raises cortisol, but so does driving a racecar, I would imagine, or being a fighter pilot. But these individuals are highly conditioned and trained, as am I, with my 30 years of experience in the arts;
 * [...]
 
 - - - - - - - - -
