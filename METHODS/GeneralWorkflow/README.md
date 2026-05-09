@@ -83,7 +83,7 @@ November 28th, 2023
    * Firstly, I follow my *Intuition*, not what is *Relevant to the Times*;
    * So I take out books from the library PLUS I take out all the books I want to read from my personal *Collection*;
    * I end up with about 20-30 books on the table, and I take them one by one, inspect them, look at the *Tables of Contents*, read the *Back Cover*;
-   * I actually start with the __*COVERS*__; Whoever said a book can't be judged by its cover, never read books for *True Understanding*, because the covers give you a precise introduction to the subject matter and information about the author and who they were published by, where, and when, with cover art on top of that; it's the perfect tool for *Understanding the Precise Context and Relavance* of any given book for any given situation when you might need it;
+   * I actually start with the __*COVERS*__; Whoever said a book can't be judged by its cover, never read books for *True Understanding*, because the covers give you a precise introduction to the subject matter and information about the author and who they were published by, where, and when, with cover art on top of that; it's the perfect tool for *Understanding the Precise Context and Relevance* of any given book for any given situation when you might need it;
    * Once I've read the *Back Cover*, I start to read the *Introduction*;
       * I go *paragraph-by-paragraph*, taking written notes as well as audio notes __OF MY CURRENT UNDERSTANDING__;
       * I read books for __UNDERSTANDING__, no other reason, so I will usually only read a few paragraphs at any given time, what would fit on what I like to call a __REFCARD__, which is an index card with concepts on it, specific yet brief *theoretical understandings*;
@@ -133,6 +133,18 @@ December 6th, 2023
 * In essence, though, I took the *decision* out of the *decision process/problem*, i.e. the process is, for all intents and purposes, a __*decisionless process*__;
 * Technically speaking, if we are speaking of *binary choices between dichotomous options*, like choosing __*to work on x or NOT x*__, then by essentially making the *1-person and n tasks assignment problem* a __*decisionless process*__, I am at least saving __*1-bit of information per decision*__ I don't have to take;
 * [...]
+
+- - - - - - - - -
+
+# GENERAL WORKFLOW MANAGEMENT METHODOLOGIES [LOG, 2026]:
+
+May 09, 2026
+
+14:18 2026-05-09
+
+* Even though I haven't really *looked over* this Repository essentially since I created it, these latest notes at least, I have successfully implemented and continued to implement and practice pretty much everything I said;
+* I even keep simplifying and improving, streamlining, the whole __*PROCESS*__: What I am calling now at times, __NONLINEAR PRACTICE__;
+* 
 
 - - - - - - - - -
 
