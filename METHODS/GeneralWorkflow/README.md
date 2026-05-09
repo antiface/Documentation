@@ -147,6 +147,10 @@ __May 09, 2026__
 * Even though I haven't really *looked over* this Repository essentially since I created it, these latest notes at least, I have successfully implemented and continued to implement and practice pretty much everything I said;
 * I even keep simplifying and improving, streamlining, the whole __*PROCESS*__: What I am calling now at times, __NONLINEAR PRACTICE__;
 * As I said, I still do most of this. I have been working on a __*pure and applied workspace theory*__, something I still refer to as the __DELTA-WORKSPACE MODEL__;
+* I have divided up the *General Workspace of The Historiotheque*, my personal art studio / sound design + research laboratories, into __*5 basic work-stations*__; I work on one __station_ and then move __station-to-station__ to the next one;
+* I work in 15-minute intervals, more or less, on average; I call that __THE SWITCHBOARD METHOD__;
+* It functions through what is called here [__*Dynamic Task Assignment in the Creative Workspace*__](https://medium.com/design-science/dynamic-task-assignment-in-the-creative-workspace-8fe8db8a272c);
+* [...]
 
 - - - - - - - - -
 
