@@ -165,6 +165,7 @@ __May 09, 2026__
 * Reading stimulates the mind-wandering mode. But he's saying multitasking is bad, but mind-wandering is good. Which is it? I know he didn't say it was bad outright, he's not making a moral judgment, but people already judge me for my great creativity and mind-wandering and daydreaming abilities and whatnot, and the states of flow that I experience in my work, and continuously looping deep work state in the "delta-workspace", I am judged...
 * In any case, this all pertains directly, I think, to this __GENERAL WORKFLOW GITHUB FOLDER__, as I am trying my best to make it all efficient;
 * I would just argue the __loophole in interruption science__ is that it is preferable for an artist to be in a state of flow while he or she works; interruption or not, task-switching is part of the process; when I go station-to-station, it isn't an __*INVOLUNTARY DISTRACTION*__ but is __*INTENTIONAL*__ and part of my __*OPERATIONAL CONTINUITY*__;
+* I am not happy with what I just wrote, but give myself the right to edit it later. I repeated some of what I was trying to say about Daniel Levitin's talk and I also probably didn't quite understand what he was trying to say in the first part of his talk. It happens. I will correct this later;
 * More soon...
 * [...]
 
