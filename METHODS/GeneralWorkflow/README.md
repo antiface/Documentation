@@ -164,6 +164,8 @@ __May 09, 2026__
 * He also said literature, reading, can be restorative, but again, I keep coming back to this, if it is restorative to mind-wander, then why is it __*TAXING AND WASTEFUL*__ for me to __*SWITCH TASKS*__ continuously throughout the workday? If it helps me be more creative, avoid making decisions which are expensive energy expenditures for the brain? Maybe someone needs to explain it to me. __*Why favor "deep work"?*__ and not what I like to call __*the vagabondage of the mind*__, its *aimless wandering*? Why prefer something that is actually MORE EXPENSIVE?;
 * Reading stimulates the mind-wandering mode. But he's saying multitasking is bad, but mind-wandering is good. Which is it? I know he didn't say it was bad outright, he's not making a moral judgment, but people already judge me for my great creativity and mind-wandering and daydreaming abilities and whatnot, and the states of flow that I experience in my work, and continuously looping deep work state in the "delta-workspace", I am judged...
 * In any case, this all pertains directly, I think, to this __GENERAL WORKFLOW GITHUB FOLDER__, as I am trying my best to make it all efficient;
+* I would just argue the __loophole in interruption science__ is that it is preferable for an artist to be in a state of flow while he or she works; interruption or not, task-switching is part of the process; when I go station-to-station, it isn't an __*INVOLUNTARY DISTRACTION*__ but is __*INTENTIONAL*__ and part of my __*OPERATIONAL CONTINUITY*__;
+* More soon...
 * [...]
 
 - - - - - - - - -
