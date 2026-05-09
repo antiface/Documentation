@@ -136,15 +136,17 @@ December 6th, 2023
 
 - - - - - - - - -
 
-# GENERAL WORKFLOW MANAGEMENT METHODOLOGIES [LOG, 2026]:
+## GENERAL WORKFLOW MANAGEMENT METHODOLOGIES
 
-May 09, 2026
+__[LOG, 2026]:__
 
-14:18 2026-05-09
+__May 09, 2026__
+
+*14:18 2026-05-09*
 
 * Even though I haven't really *looked over* this Repository essentially since I created it, these latest notes at least, I have successfully implemented and continued to implement and practice pretty much everything I said;
 * I even keep simplifying and improving, streamlining, the whole __*PROCESS*__: What I am calling now at times, __NONLINEAR PRACTICE__;
-* 
+* As I said, I still do most of this. I have been working on a __*pure and applied workspace theory*__, something I still refer to as the __DELTA-WORKSPACE MODEL__;
 
 - - - - - - - - -
 
