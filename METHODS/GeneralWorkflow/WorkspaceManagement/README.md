@@ -118,6 +118,71 @@ May 07, 2026 / 05h30
 
 - - - - - - - - -
 
+*2026-05-12 04:38:14*
+
+__The Historiotheque Work Schema (V.1.0)__
+
+__Facet A__: The Functional Mode (Action)
+
+- __A1__: Intake & Absorption (Passive/Receptive)
+    ◦ Reading, Listening, Scanning, Ingesting (Digital/Analog), Observing.
+
+- __A2__: Generative & Formative (Active/Creative)
+    ◦ Creating, Designing, Composing, Drafting, Sketching, Prototyping.
+    
+- __A3__: Technical & Structural (Operational)
+    ◦ Archiving, Documenting, Logging, Indexing, Metadata Entry, Citing, Formatting.
+    
+- __A4__: Synthesis & Output (Public-facing)
+    ◦ Producing, Publishing, Curating, Exhibiting, Distributing.
+    
+- __A5__: Meta-Cognitive (Reflective)
+    ◦ Reflecting, Auditing, Reviewing, Strategy/Planning, Meditation.
+
+__Facet B__: The Conceptual Domain (The "What")
+
+- __B1__: Historiographic (History of the archive/records)
+    
+- __B2__: Computational (Non-linearity, algorithmic problems, physical computation)
+    
+- __B3__: Aesthetic (Formal qualities, sensory experience, design language)
+    
+- __B4__: Epistemological (How we know what we know, systems of thought)
+    
+- __B5__: Material/Physical (The literal "stuff"—paper, hardware, physical space)
+
+__Facet C__: The Temporal Logic (Flow)
+    
+- __C1__: Synchronous (Real-time, logging as it happens)
+    
+- __C2__: Asynchronous (Deep work, time-shifted tasks)
+    
+- __C3__: Recursive/Iterative (Work that loops back on itself—editing, refining)
+    
+- __C4__: Teleological (Linear, goal-oriented tasks)
+    
+- __C5__: Rhizomatic (Non-linear, sprawling, exploratory research)
+
+__Facet D__: The Tooling/Interface (The Medium)
+    
+- __D1__: Analog/Manual (Handwriting, physical sorting, tactile work)
+    
+- __D2__: Digital/Code (Programming, database management, digital assets)
+    
+- __D3__: Hybrid/Cybernetic (Scanning analog to digital, OCR, MIDI/Physical controllers)
+
+__Facet E__: The "State of Matter"
+    
+- __E1__: Raw / Chaos: Unprocessed notes, initial captures.
+    
+- __E2__: Developing / Flux: Work-in-progress, being shaped.
+    
+- __E3__: Crystallized / Static: Completed, archived, ready for citation.
+    
+- __E4__: Decaying / Obsolete: Materials identified for pruning or historical reference only.
+	
+- - - - - - - - -
+
 ### [BACK TO DOCUMENTATION / METHODS](https://github.com/antiface/Documentation/tree/master/METHODS)
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
