@@ -183,6 +183,20 @@ __Facet E__: The "State of Matter"
 	
 - - - - - - - - -
 
+*2026-05-14 02:58:46*
+
+* I have been continuing my experiments especially the abstract formalization of my design methodologies, including those pertaining to general workflow management;
+* I am using a hybrid method of creating original content and then curating AI-assisted content, which I try to always edit to some extent;
+* I recently came up with the term __*hyperreflexive design*__ to describe my *nonlinear practice*;
+* Here is one of the latest entries I made with my __labnotes_composer.py__ Python script; this one is on the subject of the __NOISE IN THE WORKPLACE__ (Project);
+
+![](https://historiotheque.wordpress.com/wp-content/uploads/2026/05/screenshot-from-2026-05-14-02-55-55.png)
+
+* The following is another of my entries into the logfile of *LabNotes*;
+
+![](https://historiotheque.wordpress.com/wp-content/uploads/2026/05/screenshot-from-2026-05-14-02-56-13.png)
+
+- - - - - - - - -
 ### [BACK TO DOCUMENTATION / METHODS](https://github.com/antiface/Documentation/tree/master/METHODS)
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
