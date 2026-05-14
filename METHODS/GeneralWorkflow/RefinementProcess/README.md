@@ -71,7 +71,7 @@
 * I've been doing one variation or another on this technique/methodology for at least 14 years;
 * So far as I have said, once again, I haven't lost a single document or resource, online or offline;
 * And so this is the *Refinement Process*, as it now stands, or part of it;
-* The rest includes: *Photo-Adventures* and *Audio-Adventures* (__"acoustic ecology"__ or what are called __"Soundwalks"__) where I collect data *in-the-field*, which I transform into art *in the studio/laboratory, called __THE HISTORIOTHEQUE__, which houses both an __ARCHIVE__ of my personal documentary heritage since about 1994, and __THE ART OPERATION_, as well as its __CONTROL CENTER__;
+* The rest includes: *Photo-Adventures* and *Audio-Adventures* (__"acoustic ecology"__ or what are called __"Soundwalks"__) where I collect data *in-the-field*, which I transform into art *in the studio/laboratory, called __THE HISTORIOTHEQUE__, which houses both an __ARCHIVE__ of my personal documentary heritage since about 1994, and __THE ART OPERATION__, as well as its __CONTROL CENTER__;
 * That's it for now, the symbol below, i.e. __[...]__ is what I use to mean *"to be continued..."*
 * [...]
 
