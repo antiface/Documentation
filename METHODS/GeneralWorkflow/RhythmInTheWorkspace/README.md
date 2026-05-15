@@ -11,6 +11,9 @@
 * I try to step out of __*Clock Time*__ and into __*Organic Time*__;
 * I recently had a revelation of sorts about what I called *The Birth of Linear Chronology* in history probably around or just after the Carolingian Renaissance, as well as what I called *The Birth of Polyphony*;
 * People reading these notes might not realize this, but I've been composing music for over 30 years, I have recorded maybe 40-50 albums, over a 1000 unique songs, much more if you count my digital/electronic music; I know a thing or two about what I am calling __BEING-IN-TIME, OR RHYTHM IN THE WORKSPACE__;
+* I also find that in my short life, I have helped many people's nervous systems *DOWNSHIFT*, which unfortunately has not always been productive for me, personally, but it certainly was for them; they have often thanked me for this, but I can't take much credit for it, as I was __born this way__;
+* With the __cultural goods__ that I release/publish online, as I was saying, they require slow, deliberate engagement; it forces people to slow down and functions as a __RESYNCHRONIZATION SIGNAL__ for them as well;
+* __*"RHYTHM IS THE REPETITION OF BEAUTY OVER TIME>"*__; at least now I am aware of all of this; I will write more soon on this subject, in this README.md Markdown file, in this folder, in this GitHub Repository;
 * More on this soon...
 * [...]
 
