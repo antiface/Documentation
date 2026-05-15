@@ -1,5 +1,7 @@
 ## RHYTHM IN THE WORKSPACE:
 
+![](https://historiotheque.wordpress.com/wp-content/uploads/2026/05/noisefield_15may26a-02h10g_signed.png)
+
 *2026-05-15 11:35:46*
 
 * I find that rhythm and pace is of utmost importance and concern in the workspace of The Historiotheque, my art studio / sound design + research laboratory;
