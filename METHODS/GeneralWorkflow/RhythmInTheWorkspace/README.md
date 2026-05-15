@@ -8,7 +8,10 @@
 * This practice to me kind of sets a __RESYNCHRONIZATION SIGNAL__ and brings things back into greater synchrony or synchronization;
 * I realize that my work requires a slow, deep engagement, that it is much *lower-frequency* than what most people are trying to do;
 * I'm trying to __slow down, not speed up__, unlike what seems to be what most people are trying to do, which is __speed up, not slow down__;
-* 
+* I try to step out of __*Clock Time*__ and into __*Organic Time*__;
+* I recently had a revelation of sorts about what I called *The Birth of Linear Chronology* in history probably around or just after the Carolingian Renaissance, as well as what I called *The Birth of Polyphony*;
+* People reading these notes might not realize this, but I've been composing music for over 30 years, I have recorded maybe 40-50 albums, over a 1000 unique songs, much more if you count my digital/electronic music; I know a thing or two about what I am calling __BEING-IN-TIME, OR RHYTHM IN THE WORKSPACE__;
+* More on this soon...
 * [...]
 
 - - - - - - - - - -
