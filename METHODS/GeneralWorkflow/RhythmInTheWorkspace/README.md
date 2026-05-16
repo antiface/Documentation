@@ -21,7 +21,7 @@
 
 - - - - - - -
 
-## ANTILOG_16May26a
+### THE RHYTHMS OF POLYTEXTUALITY:
 
 *2026-05-16 01:47:52*
 
