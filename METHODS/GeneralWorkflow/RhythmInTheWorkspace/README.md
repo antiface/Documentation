@@ -19,6 +19,36 @@
 * More on this soon...
 * [...]
 
+- - - - - - -
+
+## ANTILOG_16May26a
+
+*2026-05-16 01:47:52*
+
+- I was working recently to figure out exactly what my reading and research method was like and came across the idea of a kind of NONLINEAR, DISTRIBUTED POLYTEXTUAL methodology;
+
+- For instance, yesterday I was sitting at the kitchen table, reading from books as well as notes that I had printed earlier in the day and the week as well; I was copying out or transcribing passages from the text - in a notebook on the table - and then writing down the salient points and keywords, etc., onto index cards;
+
+- Then I took the index cards, what I call *Refcards*, and brought them to one of my two *computer workstations*, after which point I copied notes I had also taken at that table, but on a note-taking app on the way, I took those notes and copied them into a text file which I then backed up on the cloud; I printed out some more materials, then took those back to the kitchen table, and starting the process all over again;
+
+- In my readings in this context, I was reading maybe between 4-5 books at a time, plus another 3-4 documents that I had previously printed out earlier in the day and week; I kept iterating like this for what seemed like hours;
+
+- THIS OF NOTE: *"Instead of burning out one pathway, I create a rhythmic wave where one faculty rests and regenerates while another fires. This keeps my brain in a state of high-amplitude creative tension, preventing the flatlining or mental fatigue common in mono-disciplinary work."*
+
+*******
+
+*2026-05-16 02:43:07*
+
+- Part of my *polytextual* *method* is my way of working at the computer stations, of which there are two in my workspace, and which are *switched* to in an oscillatory pattern throughout the **WORKDAY**;
+
+- *Researching on the web*: I open up a web resource / asset and copy highlights from the text into a .txt file on my computer, also copying and pasting certain more salient passages into the Google Keep app on my computer; then I do searches on Google Search + I prompt Gemini; I reiterate the process;
+
+- This nonlinear, zigzagging path is my natural mode of being when working on my art production or else doing my research; I find that switching from app-to-app, from tab-to-tab, copying and pasting highlights in various places, then oftentimes transcribing video content by hand, this, I find, maximizes the creativity that I have access to, that is, it PROMPTS ME and helps me access a deeper, more creative and therefore consequently more productive state of being;
+
+- I will then either go to my other computer workstation or else return to the kitchen table to continue my work, alternating from medium-to-medium and from discipline-to-discipline, continuing in my essentially *distributed, nonlinear manner*;
+
+- I also *interrupt myself* in the middle of a process, like while I'm copying and pasting something from one web resource/asset, instead of going straight back to that web page, I take a different path and either search for something else, or else visit an other page otherwise, or else I also open up a different document on my desktop; Essentially, I am going from resource-to-resource (asset-to-asset), from document-to-document, from window-to-window; I am tentatively calling this **READING-WITHOUT-READING** because I'm not *reading* in a traditional manner, but in a *nonlinear* one; I also copy what I call *TabSets* which are a list of the tabs I currently have open in my browser (*"OpenTabs"*), which I then copy onto a .txt file on my computer as well as on the web as a GitHub Gist; this back-and-forth creates a distinct rhythm which again helps me access this much deeper, greater level of creativity.
+
 - - - - - - - - - -
 
 This site and its contents are part of an ongoing research-creation project exploring the intersections of art, history, and philosophy. All works are offered in good faith as contributions to public discourse and aesthetic reflection. The responsibility for interpretation remains with each participant in that dialogue.
