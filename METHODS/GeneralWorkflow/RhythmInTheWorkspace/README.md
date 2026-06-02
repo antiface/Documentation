@@ -64,6 +64,7 @@
 * In any case, I've been doing a lot of work, art and research, in my laboratory and have been noticing the often subtle *"pulse"* of the work itself in the workspace, a manifestation of __RHYTHM IN THE WORKSPACE__;
 * I have also been continuously logging and documenting everything in a way i've never really achieved before, *at fever pitch*;
 * I couldn't help but notice lately a kind of __*dialectic, "call-and-response" rhythm*__ to my work where I work for 15 minutes roughly at one workstation and then I switch from *station-to-station* every 15 minutes, utilizing __THE SWITCHBOARD METHOD ALGORITHMS OF TASK ASSIGNMENT AND SCHEDULING__; just the fact of physically moving from station-to-station creates this __*dialogic rhythm or pulse*__;
+* I've been calling it a __nonlinear polytextual practice__ where I transition quickly from task-to-task, medium-to-medium, you've heard me say it over and over again; I also engage in a *rigorous and comprehensice, continuous review process* at strategic points in my work, which is more or less *continuous* as I said; this helps the practice become what I call [__HYPERREFLEXIVE DESIGN__](https://github.com/antiface/ReflexiveDesign/tree/main/hyperreflexive_design);
 * More to come...
 * [...]
 
