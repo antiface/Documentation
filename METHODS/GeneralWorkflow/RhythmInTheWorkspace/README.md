@@ -61,6 +61,8 @@
 * I'm slowly getting back into the groove and have a great deal of work ahead of me; first, I had to stabilize my sleep, my moods, my thoughts, anxiety, and even my heart's rhythms; then, I needed to start *moving*; you can't do this kind of work, sustain it, if you aren't moving and moving regularly; I don't think there can be rhythm without movement, at work or elsewhere;
 * So I had to get back into shape, hence my daily practice of __*morning constitutionas*__, among other things;
 * I'm practicing my instruments again, am *thinking about music*, am *contemplating* music, rhythm, sound;
+* In any case, I've been doing a lot of work, art and research, in my laboratory and have been noticing the often subtle *"pulse"* of the work itself in the workspace, a manifestation of __RHYTHM IN THE WORKSPACE__;
+* I have also been continuously logging and documenting everything in a way i've never really achieved before, *at fever pitch*;
 * More to come...
 * [...]
 
