@@ -59,6 +59,8 @@
 * I can appreciate what dancers do, the rigorous training that it involves; you have to be at your physical best; you have to have great life hygiene or your body, and your dance performance, will suffer;
 * I also dreamt of becoming an orchestral conductor when I was studying music, composing and practicing the guitar and piano; all of my collaborative musical projects failed, though, and in recent years I barely played any music at all; I still sang hymns, though, and made audio recordings and made electronic music and sound design on the computer;
 * I'm slowly getting back into the groove and have a great deal of work ahead of me; first, I had to stabilize my sleep, my moods, my thoughts, anxiety, and even my heart's rhythms; then, I needed to start *moving*; you can't do this kind of work, sustain it, if you aren't moving and moving regularly; I don't think there can be rhythm without movement, at work or elsewhere;
+* So I had to get back into shape, hence my daily practice of __*morning constitutionas*__, among other things;
+* I'm practicing my instruments again, am *thinking about music*, am *contemplating* music, rhythm, sound;
 * More to come...
 * [...]
 
