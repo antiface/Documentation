@@ -199,3 +199,9 @@ Implementing this specification at scale replaces conventional managerial and ar
 -   **The Distributed Curriculum:** Within pedagogical environments, students do not submit discrete, post-hoc assignments. Instead, they activate personal Historiotheques, contributing their real-time research struggles, errors, and breakthroughs to a living, interactive, peer-accessible learning matrix.
 
 -   **Decentralized Autonomous Co-Creation:** Economic support loops are re-engineered around stream visibility. Using cryptographic provenance proofs, Decentralized Autonomous Organizations (DAOs) or distributed patrons can verify actual creative labor output directly via the Worldstream, programmatically routing micro-grants or resources based on verifiable, real-time operational signatures rather than institutional curation.
+
+- - - - - - -
+
+This site and its contents are part of an ongoing research-creation project exploring the intersections of art, history, and philosophy. All works are offered in good faith as contributions to public discourse and aesthetic reflection. The responsibility for interpretation remains with each participant in that dialogue.
+
+[A.G. (c) 2026. ![A.G. (c) 2026. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
