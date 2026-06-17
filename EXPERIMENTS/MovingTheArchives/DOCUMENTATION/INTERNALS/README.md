@@ -10,6 +10,9 @@
 - What I originally called __*Moving The Archives*__ came about I was preparing to actually move them; I created this *folder* in the __*DOCUMENTATION*__ repository, within the __*EXPERIMENTS*__ folder;
 - My life is made up of *nested loops* which are the major *Movements*, I want to call them, *across my workspace and lifespace*;
 - *Moving The Archives* now in 2026, after a full 10 years of *The Historiotheque*, and more importantly, the __*ARCHIVES*__, being in the same space, I would rename this project, __*MOVEMENT IN/ACROSS THE ARCHIVES*__;
+- __*STEP ONE =>*__: *archival appraisal* => One needs to know something about the contents of the *Archives*; like with any digitization or archival operation, one needs to know what one is working with;
+- Then, in my *amateurish archival practice*, I try to do some basic __*HOUSECLEANING*__ in the *Archives* and then *workspace* that houses them;
+- [...]
 
 - - - - - - -
 
